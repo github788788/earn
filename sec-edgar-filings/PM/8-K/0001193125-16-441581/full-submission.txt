@@ -1,0 +1,662 @@
+<SEC-DOCUMENT>0001193125-16-441581.txt : 20160128
+<SEC-HEADER>0001193125-16-441581.hdr.sgml : 20160128
+<ACCEPTANCE-DATETIME>20160128143407
+ACCESSION NUMBER:		0001193125-16-441581
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20160127
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20160128
+DATE AS OF CHANGE:		20160128
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Philip Morris International Inc.
+		CENTRAL INDEX KEY:			0001413329
+		STANDARD INDUSTRIAL CLASSIFICATION:	CIGARETTES [2111]
+		IRS NUMBER:				133435103
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33708
+		FILM NUMBER:		161368075
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		(917) 663-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		120 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d30754d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant
+to Section&nbsp;13 or 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of The Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): January&nbsp;27, 2016 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Philip Morris International Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Virginia</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-33708</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>13-3435103</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>120 Park Avenue, New York, New York</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>10017-5592</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: (917)&nbsp;663-2000 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Former name or former address, if changed since last report.) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.01.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Entry into a Material Definitive Agreement. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On January&nbsp;27, 2016, Philip Morris International Inc.
+(&#147;PMI&#148;) entered into an agreement, effective February&nbsp;9, 2016, to amend and extend its existing $2.0 billion 364-day revolving credit facility, dated as of February&nbsp;12, 2013 (as amended or modified from time to time, the
+&#147;364-day Credit Agreement&#148;), with the lenders named therein and Citibank Europe PLC, UK Branch (as successor to The Royal Bank of Scotland plc), as administrative agent (the &#147;364-day Facility Amendment&#148;). The 364-day Facility
+Amendment amends the 364-day Credit Agreement among other things to extend the expiration date of the 364-day Credit Agreement from February&nbsp;9, 2016 to February&nbsp;7, 2017. The expiration date of the 364-day Credit Agreement was previously
+extended on January&nbsp;31, 2014 and February&nbsp;10, 2015. Except as set forth in the 364-day Facility Amendment, the terms and conditions of the 364-day Credit Agreement remain in full force and effect. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">PMI also entered into an agreement, effective February&nbsp;28, 2016, to extend the term of its $2.5 billion multi-year revolving credit facility, dated as of
+February&nbsp;28, 2014 (as amended or modified from time to time, the &#147;Multi-year Credit Agreement&#148;), with each lender named therein, J.P. Morgan Europe Limited, as facility agent, and JPMorgan Chase Bank, N.A., as swingline agent (the
+&#147;Multi-year Facility Extension Agreement&#148;). The Multi-year Facility Extension Agreement extends the expiration date of the Multi-year Credit Agreement from February&nbsp;28, 2020 to February&nbsp;28, 2021 pursuant to Section&nbsp;2.23 of
+the Multi-year Credit Agreement. The expiration date of the Multi-year Credit Agreement was previously extended on February&nbsp;28, 2015. All other terms and conditions of the Multi-year Credit Agreement remain in full force and effect. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Some of the lenders under the 364-day Credit Agreement and the Multi-year Credit Agreement and their respective affiliates have, from time to time, performed,
+and may in the future perform, various financial advisory, commercial and investment banking services for PMI, for which they received or will receive customary fees and expenses. Certain affiliates of the lenders under the 364-day Credit Agreement
+and the Multi-year Credit Agreement are underwriters of certain of PMI&#146;s note issuances. PMI and some of its subsidiaries may enter into foreign exchange and other derivative arrangements with certain of the lenders under the 364-day Credit
+Agreement and the Multi-year Credit Agreement and their respective affiliates. In addition, certain of the lenders under the 364-day Credit Agreement and the Multi-year Credit Agreement and their respective affiliates act as dealers in connection
+with PMI&#146;s commercial paper programs. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The descriptions above of the 364-day Facility Amendment and the Multi-year Facility Extension Agreement are
+summaries and are qualified in their entirety by reference to the full text of the 364-day Facility Amendment and the Multi-year Facility Extension Agreement, which are filed as Exhibit 10.1 and Exhibit 10.2 to this report and incorporated herein by
+reference. The 364-day Credit Agreement was previously filed as Exhibit 10.1 to PMI&#146;s Current Report on Form 8-K (File No.&nbsp;1-33708) filed with the Securities and Exchange Commission on February&nbsp;15, 2013, and the Multi-year Credit
+Agreement was previously filed as Exhibit 10.1 to PMI&#146;s Current Report on Form 8-K (File No.&nbsp;1-33708) filed with the Securities and Exchange Commission on March&nbsp;3, 2014. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.03.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. </B></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The information set forth above under Item&nbsp;1.01 is hereby incorporated by reference into this Item&nbsp;2.03. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 2 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits. </B></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"><U>Exhibits</U>. </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:28.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Amendment No. 2 to the Credit Agreement, effective February 9, 2016, among PMI, the lenders named therein and Citibank Europe PLC, UK Branch, as administrative agent</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Extension Agreement, effective February 28, 2016, among PMI, each lender named therein, J.P. Morgan Europe Limited, as facility agent, and JPMorgan Chase Bank, N.A., as swingline agent</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 3 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">PHILIP MORRIS INTERNATIONAL INC.</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ J<SMALL>ERRY</SMALL> W<SMALL>HITSON</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Name:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Jerry Whitson</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Title:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Deputy General Counsel and</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Corporate Secretary</TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">DATE: January 28, 2016 </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 4 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:28.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Amendment No. 2 to the Credit Agreement, effective February 9, 2016, among PMI, the lenders named therein and Citibank Europe PLC, UK Branch, as administrative agent</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Extension Agreement, effective February 28, 2016, among PMI, each lender named therein, J.P. Morgan Europe Limited, as facility agent, and JPMorgan Chase Bank, N.A., as swingline agent</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 5 - </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>d30754dex101.htm
+<DESCRIPTION>EX-10.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-10.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>EXHIBIT 10.1 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>AMENDMENT NO. 2 TO THE CREDIT AGREEMENT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Amendment No.&nbsp;2 to the Credit Agreement (this &#147;<U>Amendment</U>&#148;), dated as of 27&nbsp;January 2016, among <B>PHILIP MORRIS
+INTERNATIONAL INC.</B>, a Virginia corporation (&#147;<U>PMI</U>&#148;), the financial institutions and other institutional lenders from time to time parties to the Credit Agreement referred to below (the &#147;<U>Lenders</U>&#148;) and <B>CITIBANK
+EUROPE PLC, UK BRANCH </B>(previously known as Citibank International Limited), as Administrative Agent (&#147;<U>Citibank UK</U>&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, PMI, the Lenders and Citibank UK (as successor to The Royal Bank of Scotland plc), as Administrative Agent, are parties to that
+certain Credit Agreement relating to a US$2,000,000,000 Revolving Credit Facility, dated as of 12&nbsp;February 2013 (the &#147;<U>Credit Agreement</U>&#148;); </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, PMI, the Lenders and Citibank UK desire to amend certain provisions under the Credit Agreement and extend the term of the Credit
+Agreement; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">WHEREAS, pursuant to Section&nbsp;9.1 of the Credit Agreement, this Amendment must be in writing signed by PMI, the
+Administrative Agent and the Lenders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">NOW, THEREFORE, in consideration of the premises set forth above and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">1. <U>Definitions</U>. Capitalized terms used
+and not defined in this Amendment shall have the respective meanings given them in the Credit Agreement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">2. <U>Amendment to Credit Agreement</U>. The
+Credit Agreement is hereby amended as follows: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) All references in the Credit Agreement to &#147;Citibank International Limited&#148;
+or &#147;CIL&#148; as Administrative Agent shall be a reference to &#147;Citibank Europe PLC, UK Branch&#148; or &#147;Citibank UK&#148;. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) The following definitions are hereby added to Section&nbsp;1.1 of the Credit Agreement to read as follows: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Anti-Corruption Laws</U>&#148; means all laws, rules, and regulations of any jurisdiction applicable to PMI, any Borrower or any of
+their respective affiliates from time to time concerning or relating to bribery or corruption. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Bail-In Action</U>&#148; means the
+exercise of any Write-Down and Conversion Powers by the applicable EEA Resolution Authority in respect of any liability of an EEA Financial Institution. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Bail-In Legislation</U>&#148; means, with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the
+European Parliament and of the Council of the </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">
+European Union, the implementing law for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule from time to time. </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>EEA Financial Institution</U>&#148; means (a)&nbsp;any credit
+institution or investment firm established in any EEA Member Country which is subject to the supervision of an EEA Resolution Authority, (b)&nbsp;any entity established in an EEA Member Country which is a parent of an institution described in clause
+(a)&nbsp;of this definition, or (c)&nbsp;any financial institution established in an EEA Member Country or such other jurisdiction required by the Bail-In Legislation which is a subsidiary of an institution described in clauses (a)&nbsp;or
+(b)&nbsp;of this definition and is subject to consolidated supervision with its parent. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>EEA Member Country</U>&#148; means any of
+the member states of the European Union, Iceland, Liechtenstein, and Norway. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>EEA Resolution Authority</U>&#148; means any public
+administrative authority or any person entrusted with public administrative authority of any EEA Member Country (including any delegee) having responsibility for the resolution of any EEA Financial Institution. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>EU Bail-In Legislation Schedule</U>&#148; means the EU Bail-In Legislation Schedule published by the Loan Market Association (or any
+successor person), as in effect from time to time. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>FATCA Application Date</U>&#148; means: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) in relation to a &#147;withholdable payment&#148; described in Section&nbsp;1473(1)(A)(i) of the Internal Revenue Code
+(which relates to payments of interest and certain other payments from sources within the U.S.), 1&nbsp;July 2014; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) in
+relation to a &#147;withholdable payment&#148; described in Section&nbsp;1473(1)(A)(ii) of the Internal Revenue Code (which relates to &#147;gross proceeds&#148; from the disposition of property of a type that can produce interest from sources
+within the U.S.), 1&nbsp;January 2017; or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) in relation to a &#147;passthru payment&#148; described in
+Section&nbsp;1471(d)(7) of the Internal Revenue Code not falling within clause (a)&nbsp;or (b)&nbsp;above, 1&nbsp;January 2017, or, in each case, such other date from which such payment may become subject to a deduction or withholding required by
+FATCA as a result of any change in FATCA after the date of this Agreement. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>FATCA Deduction</U>&#148; means a deduction or
+withholding from a payment under this Agreement required by FATCA. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>FATCA Exempt Party</U>&#148; means a party that is entitled to
+receive payments free from any FATCA Deduction. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Finance Party</U>&#148; means the Administrative Agent, any Lender, or any other
+recipient of any payment to be made by or on account of any obligation of any Borrower hereunder. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Interpolated Rate</U>&#148; means at any time, for any Interest Period, the rate per
+annum (rounded to the same number of decimal places as (x)&nbsp;the Screen Rate available for deposits in Dollars or (y)&nbsp;the Screen Rate available for deposits in Euro, as applicable) determined by the Administrative Agent (which determination
+shall be conclusive and binding absent manifest error) to be equal to the rate that results from interpolating on a linear basis between: (a)&nbsp;the applicable rate under (x)&nbsp;or (y)&nbsp;above (for the longest period for which the applicable
+rate under (x)&nbsp;or (y)&nbsp;above is available for the applicable currency) that is shorter than the relevant Interest Period and (b)&nbsp;the applicable rate under (x)&nbsp;or (y)&nbsp;above for the shortest period (for which the applicable
+rate under (x)&nbsp;or (y)&nbsp;above is available for the applicable currency) that exceeds the relevant Interest Period, in each case, as of such time. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Sanctions</U>&#148; means economic or financial sanctions or trade embargoes imposed, administered or enforced from time to time by
+the United States government, including those administered by the Office of Foreign Assets Control of the United States Department of the Treasury or the United States Department of State. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Screen Rate</U>&#148; means (a)&nbsp;in relation to LIBOR, the London interbank offered rate administered by ICE Benchmark
+Administration Limited (or any other Person which takes over the administration of that rate) for the relevant currency and period displayed on pages LIBOR01 or LIBOR02 of the Thompson Reuters screen (or any replacement Thompson Reuters screen which
+displays that rate), and (b)&nbsp;in relation to EURIBOR, the Euro interbank offered rate administered by the European Money Markets Institute (or any other Person which takes over the administration of that rate) for the relevant period displayed
+on page EURIBOR01 of the Thompson Reuters screen (or any replacement Thompson Reuters page which displays that rate), or, in each case (a)&nbsp;and (b), on the appropriate page of such other information service which publishes that rate from time to
+time in place of Thompson Reuters. If such page or service ceases to be available, the Administrative Agent may specify another page or service displaying the relevant rate after consultation with PMI. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>VAT</U>&#148; means (a)&nbsp;any tax imposed in compliance with the Council Directive of 28&nbsp;November 2006 on the common system of
+value added tax (EC Directive 2006/112) and (b)&nbsp;any other tax of a substantially similar nature, whether imposed in a member state of the European Union in substitution for, or levied in addition to, such tax referred to in clause
+(a)&nbsp;above or imposed elsewhere in a jurisdiction where a Borrower is established. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Write-Down and Conversion Powers</U>&#148;
+means, with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers
+are described in the EU Bail-In Legislation Schedule. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) The following definitions are hereby amended as follows: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Subsection (e)(iii) is hereby added to the definition of Defaulting Lender: </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">or (iii)&nbsp;become the subject of a Bail-in Action. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) Subsections (f)&nbsp;and (g)&nbsp;of the definition of ERISA Event are amended in their entirety to read as follows: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(f) the conditions set forth in Section&nbsp;430(k) of the Internal Revenue Code or Section&nbsp;303(k) or 4068 of ERISA to the creation of a
+lien upon property or rights to property of any Borrower or any of its ERISA Affiliates for failure to make a required payment to a Plan are satisfied; (g)&nbsp;the failure by any Plan to satisfy the minimum funding standards (within the meaning of
+Section&nbsp;412 of the Internal Revenue Code or Section&nbsp;302 of ERISA), whether or not waived, or a determination that any Plan is, or is expected to be, in &#147;at risk&#148; status (within the meaning of Section&nbsp;430 of the Internal
+Revenue Code or Section&nbsp;303 of ERISA); </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(e) The following definitions are hereby amended in their entirety to read as follows: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Eligible Assignee</U>&#148; means (a)&nbsp;a Lender or any affiliate of a Lender that is a Qualifying Bank or (b)&nbsp;any bank or
+other financial institution, or any other Person, which has been approved in writing by PMI as an Eligible Assignee for purposes of this Agreement; <U>provided</U> that (i)&nbsp;PMI&#146;s approval shall not be required at any time an Event of
+Default has occurred and is continuing and (ii)&nbsp;PMI may withhold its approval if PMI reasonably believes that an assignment to such Eligible Assignee pursuant to Section&nbsp;9.7 would result in the incurrence of increased costs payable by any
+Borrower pursuant to Section&nbsp;2.11 or 2.14; and provided, further that PMI shall not provide its approval of any proposed Eligible Assignee that has a credit rating below BBB- by Standard&nbsp;&amp; Poor&#146;s or Baa3 by Moody&#146;s. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>EURIBOR</U>&#148; means an interest rate per annum equal to either: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) the applicable Screen Rate as of 11:00 A.M. (Brussels time) two Business Days before the first day of such Interest Period
+for a period equal to such Interest Period, or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) if the applicable Screen Rate shall not be available for the applicable
+Interest Period, but shall be available for Interest Periods of a longer and shorter duration, then EURIBOR shall be the Interpolated Rate, or </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) if the Interpolated Rate shall not be available at such time for such Interest Period, then EURIBOR will be determined by
+taking the arithmetic mean (rounded upward to the nearest whole multiple of 1/16 of 1%&nbsp;per annum, if such arithmetic mean is not such a multiple) of the rates per annum at which deposits in Euro are offered by the principal office of each of
+the Reference Banks to prime banks in the European interbank market at 11:00 A.M. (Brussels time) two Business Days before the first day of such Interest Period for an amount substantially equal to the amount that would be the Reference Banks&#146;
+respective ratable shares of such Borrowing outstanding during such Interest Period and for a period equal to such Interest Period, as determined by the </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">
+Administrative Agent; <U>provided</U> that, if EURIBOR is below zero, then EURIBOR will be deemed to be zero, subject, however, to the provisions of Section&nbsp;2.7. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Federal Funds Effective Rate</U>&#148; means, for any period, a fluctuating interest rate per annum equal, for each day during such
+period, to the weighted average of the rates on overnight federal funds transactions with members of the Federal Reserve System arranged by federal funds brokers, as published for such day (or, if such day is not a Business Day, for the next
+preceding Business Day) on Reuters Page FEDFUNDS1 (or any successor page), or, if such rate is not so published for any day that is a Business Day, the average of the quotations for such day on such transactions received by Citibank UK from three
+federal funds brokers of recognized standing selected by it; <U>provided</U> that, if the Federal Funds Effective Rate shall be less than zero, such rate shall be deemed to be zero for purposes of this Agreement. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>LIBOR</U>&#148; means an interest rate per annum equal to either: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) the applicable Screen Rate as of 11:00 A.M. (London time) two Business Days before the first day of such Interest Period
+for a period equal to such Interest Period, or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(b) if the applicable Screen Rate shall not be available for the applicable
+Interest Period but shall be available for Interest Periods of a longer and shorter duration, then LIBOR shall be the Interpolated Rate, or </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(c) if the Interpolated Rate shall not be available at such time for such Interest Period, then LIBOR will be determined by
+taking the arithmetic mean (rounded upward to the nearest whole multiple of 1/16 of 1%&nbsp;per annum, if such arithmetic mean is not such a multiple) of the rates per annum at which deposits in Dollars are offered by the principal office of each of
+the Reference Banks to prime banks in the London interbank market at 11:00 A.M. (London time) two Business Days before the first day of such Interest Period for an amount substantially equal to the amount that would be the Reference Banks&#146;
+respective ratable shares of such Borrowing outstanding during such Interest Period and for a period equal to such Interest Period, as determined by the Administrative Agent; <U>provided</U> that, if LIBOR shall be below zero, then LIBOR will be
+deemed to be zero, subject, however, to the provisions of Section&nbsp;2.7. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Maturity Date</U>&#148; means 7&nbsp;February 2017.
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Participating Member State</U>&#148; means any member state of the European Communities that has the Euro as its lawful currency
+in accordance with legislation of the European Community relating to Economic and Monetary Union. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;<U>Reference Banks</U>&#148; means
+such banks as may be appointed by the Administrative Agent in consultation with PMI and that agree to be so appointed. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(f) The definition
+of &#147;Mandatory Cost&#148; in Section&nbsp;1.1 of the Credit Agreement is hereby deleted in its entirety. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(g) Subsection (a)&nbsp;of Section&nbsp;2.5 of the Credit Agreement is hereby amended by deleting
+the following phrase: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><U>plus</U> (z)&nbsp;Mandatory Cost, if any </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(h) Subsection (b)&nbsp;of Section&nbsp;2.5 of the Credit Agreement is hereby amended by deleting the following phrase: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><U>plus</U> (z)&nbsp;Mandatory Cost, if any </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(i) Subsections (b), (c)&nbsp;and (d)&nbsp;of Section&nbsp;2.7 of the Credit Agreement are hereby amended in their entirety and a new
+Subsection (e)&nbsp;is inserted, in each case to read as follows: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(b) <U>Role of Reference Banks</U>. In the event that EURIBOR or LIBOR
+cannot be determined by the methods described in clause (a)&nbsp;or clause (b)&nbsp;of the definitions of &#147;EURIBOR&#148; or &#147;LIBOR,&#148; respectively, each Reference Bank agrees to furnish to the Administrative Agent timely information
+for the purpose of determining EURIBOR or LIBOR, as the case may be, in accordance with the method described in clause (c)&nbsp;of the definitions thereof. If any one or more of the Reference Banks shall not furnish such timely information to the
+Administrative Agent for the purpose of determining EURIBOR or LIBOR, the Administrative Agent shall determine such interest rate on the basis of timely information furnished by the remaining Reference Banks. Notwithstanding anything herein to the
+contrary, no Reference Bank is under any obligation to furnish such information to the Administrative Agent and no Reference Bank (or any officer, employee or agent thereof) shall be liable for any action taken by it under or in connection with this
+Section&nbsp;2.7(b), unless found in a final, non-appealable judgment by a court of competent jurisdiction to have been directly caused by its gross negligence or willful misconduct. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(c) Each Borrower agrees to maintain the confidentiality of any information relating to a rate provided by a Reference Bank, except that such
+information may be disclosed (a)&nbsp;to its and its affiliates&#146; directors, officers, employees and agents, including accountants, legal counsel and other advisors on a need-to-know basis, (b)&nbsp;as consented to by the applicable Reference
+Bank, (c)&nbsp;to the extent required by applicable laws or regulations or by any subpoena or similar legal process, <U>provided</U> that in connection with any such requirement by a subpoena or similar legal process, the applicable Reference Bank
+is given prior notice to the extent such prior notice is permissible under the circumstances, (d)&nbsp;in connection with the exercise of any remedies hereunder or any suit, action or proceeding relating to this Agreement or the enforcement of
+rights hereunder, or (e)&nbsp;to the extent such information (i)&nbsp;becomes publicly available other than as a result of a breach of this Section, or (ii)&nbsp;becomes available to such Borrower on a nonconfidential basis from a source other than
+the Administrative Agent or the applicable Reference Bank or its affiliates. For the avoidance of doubt, this Section&nbsp;2.7(c) shall not apply to the actual rate applicable to LIBOR Advances or EURIBOR Advances. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(d) <U>Market Disruption</U>. (A)&nbsp;If the applicable Screen Rate is unavailable and fewer than two Reference Banks furnish timely
+information to the Administrative Agent for </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">
+determining EURIBOR for any EURIBOR Advances or LIBOR for any LIBOR Advances, as the case may be, or (B)&nbsp;with respect to Advances under the Facility, the Lenders owed or required to lend at
+least 50.1% of the aggregate principal amount thereof notify the Administrative Agent that EURIBOR or LIBOR for any Interest Period will not adequately reflect the cost to such Lenders of making, funding or maintaining their respective Advances for
+such Interest Period (each, a &#147;<U>Market Disruption Event</U>&#148;), then the rate of interest on each Lender&#146;s share of that Advance for the Interest Period shall be the rate per annum which is the sum of (x)&nbsp;the Applicable Interest
+Rate Margin <U>plus</U> (y)&nbsp;the rate notified to the Administrative Agent and the Borrower by that Lender in a certificate (which sets out the details of the computation of the relevant rate and shall be <U>prima facie</U> non-binding evidence
+of the same) as soon as practicable and in any event before interest is due to be paid in respect of that Interest Period, to be that which expresses as a percentage rate per annum the cost to that Lender of funding its participation in that Advance
+from whatever source it may reasonably select. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(e) If a Market Disruption Event occurs and the Administrative Agent or the applicable
+Borrower so requires: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(i) the Administrative Agent, PMI and such Borrower shall enter into negotiations (for a period of not more than
+thirty (30)&nbsp;days) with a view to agreeing on a substitute basis for determining the interest rate; and </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(ii) any alternative basis
+agreed upon pursuant to clause (i)&nbsp;above shall, with the prior consent of all the Lenders, PMI and such Borrower, be binding on all such parties hereto. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(j) Subsection (a)&nbsp;of Section&nbsp;2.11 of the Credit Agreement is hereby amended by deleting the following parenthetical: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(other than any change by way of imposition or increase of reserve requirements to the extent such change is included in Mandatory Cost) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(k) Subsection (b)(A) of Section&nbsp;2.14 of the Credit Agreement is hereby amended in its entirety to read as follows: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">for each period during which a deduction or withholding for or on account of any Taxes is required to be made by the Borrower with respect to
+the payment of interest under this Agreement (the &#147;<U>Tax Deduction</U>&#148;), in lieu of application of clause (i)&nbsp;of this Section&nbsp;2.14(b), the rate of interest on the Advances as set out in Section&nbsp;2.5 shall be the percentage
+rate per annum which is the aggregate of the applicable: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(i) Interest Rate Margin, and </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(ii) EURIBOR or LIBOR, as applicable, </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">divided by a factor equal to one (1)&nbsp;minus the amount of the Tax Deduction expressed as a multiplier (i.e., ten (10)&nbsp;percent will be
+expressed as 0.10 and not as 10%); and </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(l) The parenthetical in Section&nbsp;2.14(f) of the Credit Agreement is hereby amended in its
+entirety to read as follows: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(including, if applicable, two executed copies of Internal Revenue Service Form W-9, W-8BEN-E (or W-8BEN, if
+applicable), W-8ECI or W-8IMY (together with any underlying attachments), as appropriate, or any successor or other form prescribed by the Internal Revenue Service) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(m) Subsection (g)&nbsp;of Section&nbsp;2.14 of the Credit Agreement is hereby deleted in its entirety and Subsection (h)&nbsp;is renamed
+Subsection (g)&nbsp;of Section&nbsp;2.14 and Subsection (h)&nbsp;is hereby added to read as follows: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(h) (i)&nbsp;Subject to clause
+(iii)&nbsp;below, each party to this Agreement shall, within ten Business Days of a reasonable request by another party to this Agreement: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(A)</TD>
+<TD ALIGN="left" VALIGN="top">confirm for the requesting party whether it is or is not a FATCA Exempt Party; and </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(B)</TD>
+<TD ALIGN="left" VALIGN="top">supply to the requesting party such forms, documentation and other information relating to its status under FATCA as such requesting party reasonably requests for the purposes of its compliance with any other law,
+regulation or exchange of information regime; </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(ii) If a party to this Agreement confirms to a requesting
+party to this Agreement pursuant to clause (i)(A) above that it is a FATCA Exempt Party and it subsequently becomes aware that it is not or has ceased to be a FATCA Exempt Party, that party shall notify the requesting party thereof reasonably
+promptly; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(iii) Clause (i)&nbsp;above shall not oblige any Finance Party to do anything, and clause (i)(B) above shall not
+oblige any other party to do anything, which would or might, in its reasonable opinion, constitute a breach of any (x)&nbsp;law or regulation, (y)&nbsp;fiduciary duty, or (z)&nbsp;duty of confidentiality. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman">(iv) If a party to this Agreement fails to confirm whether or not it is a FATCA Exempt Party or to supply forms, documentation
+or other information requested in accordance with clause (i)&nbsp;above (including, for the avoidance of doubt, where clause (iii)&nbsp;above applies), then such party shall be treated for the purposes of this Agreement as if it is not a FATCA
+Exempt Party until such time as the party in question provides the requested confirmation, forms, documentation or other information. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(v)</TD>
+<TD ALIGN="left" VALIGN="top">(A) Each party to this Agreement may make any FATCA Deduction and any payment required in connection with that FATCA Deduction, and no party shall be required to increase any payment in respect of which it makes such a
+FATCA Deduction or otherwise compensate the recipient of the payment for that FATCA Deduction. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="13%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(B)</TD>
+<TD ALIGN="left" VALIGN="top">Each Finance Party shall promptly, upon becoming aware that it must make a FATCA Deduction (or that there is any change in the rate or the basis of such FATCA Deduction), notify the party to whom it is making the
+payment and, in addition, shall notify PMI and the Administrative Agent and the Administrative Agent shall notify the other Finance Parties. </TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Solely for purposes of this Section&nbsp;2.14(h), &#147;FATCA&#148; shall include any amendments made to FATCA after the date of this
+Agreement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(n) Section&nbsp;2.14 of the Credit Agreement is hereby amended by adding the following subsection (l)&nbsp;as follows: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(l) </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:8%; font-size:10pt; font-family:Times New Roman">(i) All
+amounts expressed to be payable under this Agreement by any party to any Finance Party which (in whole or in part) constitute the consideration for any supply for VAT purposes are deemed to be exclusive of any VAT which is chargeable on that supply,
+and accordingly, subject to clause (ii)&nbsp;below, if VAT is or becomes chargeable on any supply made by any Finance Party to any party under this Agreement and such Finance Party is required to account to the relevant tax authority for the VAT,
+that party must pay to such Finance Party (in addition to and at the same time as paying any other consideration for such supply) an amount equal to the amount of the VAT (and such Finance Party must promptly provide an appropriate VAT invoice to
+that party under this Agreement). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:8%; font-size:10pt; font-family:Times New Roman">(ii) If VAT is or becomes chargeable on any supply made by any Finance Party (the
+&#147;<U>Supplier</U>&#148;) to any other Finance Party (the &#147;<U>Recipient</U>&#148;) under a this Agreement, and any party other than the Recipient (the &#147;<U>Relevant Party</U>&#148;) is required by the terms of this Agreement to pay an
+amount equal to the consideration for that supply to the Supplier (rather than being required to reimburse or indemnify the Recipient in respect of that consideration): </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; text-indent:8%; font-size:10pt; font-family:Times New Roman">(A) (where the Supplier is the person required to account to the relevant tax authority for the VAT) the Relevant Party must
+also pay to the Supplier (at the same time as paying that amount) an additional amount equal to the amount of the VAT. The Recipient must (where this clause (A)&nbsp;applies) promptly pay to the Relevant Party an amount equal to any credit or
+repayment the Recipient receives from the relevant tax authority which the Recipient reasonably determines relates to the VAT chargeable on that supply; and </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; text-indent:8%; font-size:10pt; font-family:Times New Roman">(B) (where the Recipient is the person required to account to the relevant tax authority for the VAT) the Relevant Party must
+promptly, following demand from the Recipient, pay to the Recipient an amount equal to the VAT chargeable on that supply but only to the extent that the Recipient reasonably determines that it is not entitled to credit or repayment from the relevant
+tax authority in respect of that VAT. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">9 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:8%; font-size:10pt; font-family:Times New Roman">(iii) Where this Agreement requires any party to reimburse or indemnify a Finance
+Party for any cost or expense, such party shall reimburse or indemnify (as the case may be) such Finance Party for the full amount of such cost or expense, including such part thereof as represents VAT, except to the extent that such Finance Party
+reasonably determines that it is entitled to credit or repayment in respect of such VAT from the relevant tax authority. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:8%; font-size:10pt; font-family:Times New Roman">(iv) Any reference in this clause (l) to any party shall, at any time when such party is treated as a member of a group for VAT
+purposes, include (where appropriate and unless the context otherwise requires) a reference to the representative member of such group at such time (the term &#147;representative member&#148; to have the same meaning as in the UK Value Added Tax Act
+1994). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(v) In relation to any supply made by a Finance Party to any party under this Agreement, if reasonably requested by such Finance
+Party, that party must promptly provide such Finance Party with details of that party&#146;s VAT registration and such other information as is reasonably requested in connection with such Finance Party&#146;s VAT reporting requirements in relation
+to such supply. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(o) Subsection (i)&nbsp;of Section&nbsp;4.1 of the Credit Agreement is hereby amended by inserting the following language
+at the end of such Subsection: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The use of the proceeds of the Advances will not violate Anti-Corruption Laws or applicable Sanctions. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(p) Subsection (a)&nbsp;of Section&nbsp;5.1 of the Credit Agreement is hereby amended in its entirety to read as follows: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(a) <U>Compliance with Laws, Etc</U>. (i)&nbsp;Comply, and cause each Major Subsidiary to comply, in all material respects, with all applicable
+laws, rules, regulations and orders (such compliance to include, without limitation, complying with ERISA and Anti-Corruption Laws and paying before the same become delinquent all taxes, assessments and governmental charges imposed upon it or upon
+its property except to the extent contested in good faith), noncompliance with which would materially adversely affect the financial condition or operations of PMI and its Subsidiaries taken as a whole, and (ii)&nbsp;maintain in effect and enforce
+policies and procedures designed to ensure, in its reasonable judgment, compliance in all material respects by PMI, the Borrowers, the Major Subsidiaries and each of their respective directors, officers, employees and agents with Anti-Corruption
+Laws and applicable Sanctions. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(q) Section&nbsp;7.6 of the Credit Agreement is hereby renumbered as Section&nbsp;7.6(a) of the Credit
+Agreement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(r) Subsection (b)&nbsp;is hereby added to Section&nbsp;7.6 of the Credit Agreement to read as follows: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(b) The Administrative Agent shall resign in accordance with clause (a)&nbsp;above (and, to the extent applicable, shall use reasonable
+endeavors to appoint a </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">10 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">
+successor Administrative Agent pursuant to clause (a)&nbsp;above) if on or after the date which is three months before the earliest FATCA Application Date relating to any payment to the
+Administrative Agent under the Agreement, either: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(i) the Administrative Agent fails to respond to a request under Section&nbsp;2.14(h) or
+a Lender reasonably believes that the Administrative Agent will not be (or will have ceased to be) a FATCA Exempt Party on or after that FATCA Application Date; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(ii) the information supplied by the Administrative Agent pursuant to Section&nbsp;2.14(h) indicates that the Administrative Agent will not be
+(or will have ceased to be) a FATCA Exempt Party on or after that FATCA Application Date; or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(iii) the Administrative Agent notifies PMI
+and the Lenders that the Administrative Agent will not be (or will have ceased to be) a FATCA Exempt Party on or after that FATCA Application Date; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">and, in each case, PMI or a Lender reasonably believes that a party will be required to make a FATCA Deduction that would not be required if
+the Administrative Agent were a FATCA Exempt Party, and PMI or such Lender, by notice to the Administrative Agent, requires it to resign. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(s) Subsection (b)(vi) to Section&nbsp;9.7 of the Credit Agreement is hereby amended in its entirety to read as follows: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(vi) such assignee represents that the source of any funds it is using to acquire the assigning Lender&#146;s interest or to make any Advance
+is not and will not be plan assets as defined under the Department of Labor Plan Asset Regulations (Section 2510.3-101 of Part 2510 of Chapter XXV, Title 29 of the Code of Federal Regulations, as amended by Section&nbsp;3(42) of ERISA and as may be
+further amended) or the assignment or Advance is not and will not be a non-exempt prohibited transaction as defined in Section&nbsp;406 of ERISA or Section&nbsp;4975(c) of the Internal Revenue Code; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(t) Subsection (d)&nbsp;to Section&nbsp;9.7 of the Credit Agreement is hereby amended by deleting the words &#147;and addresses&#148; after
+the word &#147;names&#148; in the first sentence. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(u) Subsection (e)&nbsp;to Section&nbsp;9.7 of the Credit Agreement is hereby amended
+by deleting the period in the last sentence and inserting the following language at the end of such Subsection: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(the &#147;<U>Participant
+Register</U>&#148;). The entries in the Participant Register shall be conclusive absent manifest error, and such Lender shall treat each Person whose name is recorded in the Participant Register as the owner of such participation for all purposes of
+this Agreement notwithstanding any notice to the contrary. For the avoidance of doubt, the Administrative Agent (in its capacity as Administrative Agent) shall have no responsibility for maintaining a Participant Register. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">11 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(v) Article 9 of the Credit Agreement is hereby amended by adding the following Section&nbsp;9.16
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">9.16 <U>Acknowledgement and Consent to Bail-In of EEA Financial Institutions</U>. Notwithstanding anything to the contrary in this
+Agreement or in any other agreement, arrangement or understanding among any such parties, each party hereto acknowledges that any liability of any EEA Financial Institution arising under this Agreement, to the extent such liability is unsecured, may
+be subject to the write-down and conversion powers of an EEA Resolution Authority and agrees and consents to, and acknowledges and agrees to be bound by: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(a) the application of any Write-Down and Conversion Powers by an EEA Resolution Authority to any such liabilities arising hereunder which may
+be payable to it by any party hereto that is an EEA Financial Institution; and </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(b) the effects of any Bail-in Action on any such
+liability, including, if applicable: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(i) a reduction in full or in part or cancellation of any such liability; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(ii) a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such EEA Financial Institution, its
+parent undertaking, or a bridge institution that may be issued to it or otherwise conferred on it, and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such liability under this
+Agreement; or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">(iii) the variation of the terms of such liability in connection with the exercise of the write-down and conversion powers
+of any EEA Resolution Authority. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(w) Paragraph 3 of Exhibit C &#150; Form of Assignment and Acceptance to the Credit Agreement is hereby
+amended in its entirety to read as follows: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">3. The Assignee (i)&nbsp;confirms that it has received a copy of the Credit Agreement,
+together with copies of the financial statements referred to in Section&nbsp;4.1(e) thereof and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into this Assignment and
+Acceptance; (ii)&nbsp;agrees that it will, independently and without reliance upon Citibank UK, as Administrative Agent, the Assignor or any other Lender and based on such documents and information as it shall deem appropriate at the time, continue
+to make its own credit decisions in taking or not taking action under the Credit Agreement; (iii)&nbsp;confirms that it is an Eligible Assignee; (iv)&nbsp;represents that (A)&nbsp;the source of any funds it is using to acquire the Assignor&#146;s
+interest or to make any Advance is not and will not be plan assets as defined under the Department of Labor Plan Asset Regulations (Section 2510.3-101 of Part 2510 of Chapter XXV, Title 29 of the Code of Federal Regulations, as amended by
+Section&nbsp;3(42) of ERISA and as may be further amended) or (B)&nbsp;the assignment or Advance is not and will be not be a non-exempt prohibited transaction as defined in Section&nbsp;406 of ERISA or Section&nbsp;4975(c) of the Internal Revenue
+Code; (v)&nbsp;appoints and authorizes Citibank UK, as Administrative Agent, to take such action as agent on its behalf and to exercise such powers and discretion under the Credit Agreement as are delegated to
+</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">12 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">
+Citibank UK, as Administrative Agent, by the terms thereof, together with such powers and discretion as are reasonably incidental thereto; (vi)&nbsp;agrees that it will perform in accordance with
+their terms all of the obligations that by the terms of the Credit Agreement are required to be performed by it as a Lender; and (vii)&nbsp;confirms that it has signed a confidentiality agreement substantially in the form attached as Exhibit&nbsp;H
+to the Credit Agreement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(x) Schedule 3 Calculation of Mandatory Cost is hereby amended and restated in its entirety to read as follows:
+&#147;Intentionally Omitted.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(y) Schedule 4 Commitments is hereby deleted in its entirety and is replaced with Schedule 4
+Commitments attached hereto. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">3. <U>Limited Effect</U>. Except as expressly provided hereby, all of the terms and provisions of the Credit Agreement and
+other related documents are and shall remain in full force and effect and are hereby ratified and confirmed. The amendments contained herein shall not be construed as a waiver or amendment of any other provision of the Credit Agreement or other
+related documents or for any purpose except as expressly set forth herein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">4. <U>Effective Date</U>. This Amendment shall become effective on
+9&nbsp;February 2016 (the &#147;<U>Effective Date</U>&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">5. <U>Condition Precedent</U>. On or prior to the date hereof, the Administrative Agent
+shall have received this Amendment, duly executed and delivered by PMI, Citibank UK, as Administrative Agent, and the Lenders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">6. <U>Representations and
+Warranties</U>. PMI represents and warrants to the Administrative Agent and to each of the Lenders that the statements in subsection (a), (b), (c), (d)&nbsp;and (f)&nbsp;(but only clause (i)&nbsp;thereof) of Section&nbsp;4.1 of the Credit Agreement
+are true and correct on and as of the date hereof. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">7. <U>Headings</U>. Section headings included herein are for convenience of reference only and shall
+not constitute a part of this Amendment for any other purpose or be given any substantive effect. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">8. <U>Binding Effect</U>. This Amendment shall be
+binding upon and inure to the benefit of PMI, Citibank UK and each Lender, and each of their respective successors and assigns. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">9. <U>Governing Law</U>.
+This Amendment shall be governed by, and construed in accordance with, the laws of the State of New York. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">10. <U>Execution in Counterparts</U>. This
+Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same
+agreement. Delivery of an executed counterpart of a signature page to this Amendment electronically or by facsimile shall be effective as delivery of a manually executed counterpart of this Amendment. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">13 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">[Signature pages omitted] </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>d30754dex102.htm
+<DESCRIPTION>EX-10.2
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-10.2</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>EXHIBIT 10.2 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">J.P. Morgan Europe Limited, as Facility Agent </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman">for the Lenders party to the Credit Agreement </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman">referred to below </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Ladies and Gentlemen: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The undersigned (the &#147;<U>Extending Lender</U>&#148;) hereby agrees to extend, effective 28&nbsp;February 2016 (the &#147;<U>Extension
+Date</U>&#148;), its Commitment and the Maturity Date under the Credit Agreement, dated as of 28&nbsp;February 2014 (as amended or modified from time to time, the &#147;<U>Credit Agreement</U>,&#148; the terms defined therein being used herein as
+therein defined if not defined herein), among Philip Morris International Inc. (&#147;<U>PMI</U>&#148;), the Lenders party thereto, J.P. Morgan Europe Limited, as Facility Agent, and JPMorgan Chase Bank, N.A., as Swingline Agent, for an additional
+one year period to 28&nbsp;February 2021 (the &#147;<U>Extended Maturity Date</U>&#148;) pursuant to Section&nbsp;2.23 of the Credit Agreement. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Effective 28&nbsp;February 2016, Schedule 3 Revolving Credit Commitments is hereby deleted in its entirety and is replaced with Schedule 3
+Revolving Credit Commitments attached hereto. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Except as expressly provided hereby, all of the terms and provisions of the Credit
+Agreement are and shall remain in full force and effect and are hereby ratified and confirmed. This Extension Agreement shall be governed by, and construed in accordance with, the laws of the State of New York. This Extension Agreement may be signed
+in any number of counterparts, each of which when executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">[Signature pages omitted] </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

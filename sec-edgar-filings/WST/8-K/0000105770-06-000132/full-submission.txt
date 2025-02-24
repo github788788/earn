@@ -1,0 +1,23 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OPgCSd55rGp6e0wVxVhyOPnBe80KewxqFAr3kylJAYuKzsQo7bq8QOdkO9Li8amQ
+ YLrtlNYVvy8xdQ+p4FKK7w==
+
+<SEC-DOCUMENT>0000105770-06-000132.txt : 20060303
+<SEC-HEADER>0000105770-06-000132.hdr.sgml : 20060303
+<ACCEPTANCE-DATETIME>20060303151741
+ACCESSION NUMBER:		0000105770-06-000132
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20060228
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Termination of a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20060303
+DATE AS OF C

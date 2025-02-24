@@ -1,0 +1,22 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EyPzfBbeuuF8mXk5kJ9bj2hjAlgE4yO0v4i9SjVmSWsIGi5AKs4HIiicJvdV6Ibt
+ 386zqdEr0igSWAjq7sFKNQ==
+
+<SEC-DOCUMENT>0000105770-07-000368.txt : 20071217
+<SEC-HEADER>0000105770-07-000368.hdr.sgml : 20071217
+<ACCEPTANCE-DATETIME>20071217160431
+ACCESSION NUMBER:		0000105770-07-000368
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20071217
+ITEM INFORMATION:		Cost Associated with Exit or Disposal Activities
+ITEM INFORMATION:		Material Impairments
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+ITEM INFORMATION:		Financial Sta

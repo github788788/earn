@@ -1,9 +1,12 @@
-import finnhub
+
 import json
 import os
 import csv
 import inspect
 from datetime import datetime
+import time
+import sys
+import shutil
 
 """
 ##delete files
@@ -26,7 +29,6 @@ def finnhub_earnings(start, end, file):
     start_date = start
     end_date = end
     file_name = file
-
     if file_name + ".json" in in_directory:
         print("already got it")
     if file_name + ".json" not in in_directory:
@@ -42,7 +44,6 @@ def finnhub_earnings(start, end, file):
             json.dump(future, json_file, indent=4)
         print("Earnings data has been saved to " + file_name + ".json")
         print("request made")
-
 
 def stocks_from_finnhub_data(output):
     with open(file_name + ".json", 'r') as json_file:
@@ -77,7 +78,6 @@ def stocks_from_finnhub_data(output):
         writer = csv.writer(file)
         writer.writerows(stocks)
     print(output + " file saved successfully!")
-
 
 def gen_match_file(google_volume_price_file, output_file, variable, base_list):
     price_volume = []
@@ -139,7 +139,7 @@ def gen_match_file(google_volume_price_file, output_file, variable, base_list):
     print(base_list + " file saved successfully!")
 
 
-def get_earnings_dates(match_file):
+def get_earn_dates(match_file):
     look_at = []
     with open(match_file, mode='r') as file:
         reader = csv.reader(file)
@@ -147,43 +147,72 @@ def get_earnings_dates(match_file):
             look_at.append(row)  # Add each row to the list
     #get earnings dates
     from pathlib import Path
-    directory_path = Path('')  # Change this to your directory
-    files = [f.name for f in directory_path.iterdir() if f.is_file()]
-    #print(files)
-    import yfinance as yf
-    for item in look_at:
-        check_stock = item[1]
-        check_file = check_stock + "-dates.csv"
-        if check_file not in files:
-            ticker = check_stock
-            stock = yf.Ticker(ticker)
-            earnings_dates = stock.earnings_dates
-            print(earnings_dates)
-            
-            import pandas as pd
-            df = pd.DataFrame(earnings_dates)
-            df_reset = df.reset_index()
-            list_with_proper_index = [df_reset.columns.tolist()
-                                      ] + df_reset.values.tolist()
-            list_with_proper_index[0] = [''] + list_with_proper_index[0][1:]
-            print(item)
-            print(check_file)
-            #print(item, look_at.index(item), len(look_at))
-            with open(check_file, mode='w', newline='') as file:
-                writer = csv.writer(file)
-                writer.writerows(list_with_proper_index)
-            print(len(look_at))
-            #place = item.index(look_at)
-            #print(place)
-            import asyncio
-            seconds = 5
-            #print(look_at.index(item))
-            async def wait_seconds(how_long):
-                print("Waiting for " + str(how_long) + " seconds...")
-                await asyncio.sleep(seconds)
-                print("Done waiting!")
-            # Running the async function
-            asyncio.run(wait_seconds(seconds))
+    cwd = os.getcwd()
+    edgar_folder = cwd+"//sec-edgar-filings"    
+    files = os.listdir(edgar_folder)    
+    from sec_edgar_downloader import Downloader
+    dl = Downloader("MyCompanyName", "my.email@domain.com")
+    print(files)
+    cwd = os.getcwd()
+    edgar_folder = os.path.join(cwd, "sec-edgar-filings")
+    for a,val in enumerate(look_at):
+        check_stock = val[1]
+        stock = check_stock
+        #print (a,len(look_at),check_stock)
+        #print("check_stock =",check_stock)
+        #check_file = check_stock
+        if check_stock not in files:
+            print("now getting 8k for")
+            print(a,len(look_at),"check_stock =",check_stock)
+            ticker_symbol = check_stock
+            dl.get("8-K", ticker_symbol)
+            print("now gotten 8k for stock "+ticker_symbol)
+            #print("and waiting 5 seconds for next one!")
+            #for a in range(0,5):
+            #    print(a)
+            #    time.sleep(1)
+    #stocks = os.listdir(edgar_folder)
+            #for a,stock in enumerate(stocks):
+            print(stock)
+            stock_folder = os.path.join(edgar_folder,stock,"8-K")
+            print(stock_folder)
+            earn_dates = os.listdir(stock_folder)
+            print(earn_dates)                       
+            for b,date in enumerate(earn_dates):
+                print(a,len(look_at),b,len(earn_dates))
+            #print(earn_dates)
+                if "-25-" not in date:
+                    if "-24-" not in date:
+                        if "-23-" not in date:
+                            if "-22-" not in date:
+                                if "-21-" not in date:
+                                    if "-20-" not in date:
+                                        #print(a,len(look_at),b,len(earn_dates))
+                                        #print(date)
+                                        to_delete = os.path.join(stock_folder,date)
+                                        print(to_delete)
+                                        shutil.rmtree(to_delete)
+            earn_dates = os.listdir(stock_folder)
+            for b,date in enumerate(earn_dates):
+                print(a,len(look_at),b,len(earn_dates))
+                check_file = os.path.join(stock_folder,date,"full-submission.txt")
+                print(check_file)
+                with open(check_file, 'r') as file:
+                    content = file.read()  # Read the entire content of the file
+                    #print(content)
+                    if "Results of Operations and Financial Condition" not in content:
+                        print("has been deleted!")
+                        print(check_file)
+                        to_delete = os.path.join(stock_folder,date)
+                        shutil.rmtree(to_delete)
+                        """
+                    else:
+                        with open(check_file, "w") as file:
+                            file.write(content[0:1000])   
+                            """                 
+    
+
+
 
 
 def get_history(match_file):
@@ -243,10 +272,10 @@ def get_history(match_file):
                 writer = csv.writer(file)
                 writer.writerows(list_with_proper_index)
             print(check_file)
-            print(item, match_list.index(item), len(match_list))
+            print(match_list.index(item), len(match_list),item)
             import asyncio
             async def wait_10_seconds():
-                print("Waiting for 10 seconds...")
+                print("Waiting for 5 seconds...")
                 await asyncio.sleep(5)
                 print("Done waiting!")
             # Running the async function
@@ -260,45 +289,70 @@ def prices_around_earnings(match_file):
         for row in reader:
             match_list.append(row)  # Add each row to the list
     match_list.reverse()
-    for item in match_list:
-        symbol = item[1]
+    cwd = os.getcwd()
+    edgar_folder = cwd+"//sec-edgar-filings"
+    #edgar_stocks = os.listdir(edgar_folder)
+    print(match_list)
+    double_continue = []
+    double_reverse = []
+    for a,match in enumerate(match_list): 
+        print(a,len(match_list),match)
+        symbol = match[1]
+        stock = match[1]
+        k8_dir = edgar_folder+"//"+stock+"//8-K"
+        try:
+            k8_list = os.listdir(k8_dir)
+        except:
+            continue
         earnings_dates = []
-        dates_file = symbol + "-dates.csv"
-        with open(dates_file, mode='r') as file:
-            reader = csv.reader(file)
-            for row in reader:
-                earnings_dates.append(row)  # Add each row to the list
-        ###start of generate list of earnings dates for each stock
-        dates_list = []
-        object_current_datetime = datetime.now()
-        for item in earnings_dates:
-            date_string = item[0][0:item[0].find(" ")]
-            #date_string = item[0]
-            if len(date_string) > 0:
-                object_earnings_date = datetime.strptime(
-                    date_string, "%Y-%m-%d")
-                if object_earnings_date < object_current_datetime:
-                    dates_list.append(date_string)
-        #print(symbol)
-        #print(dates_list)
-        ###end of generate list of earnings dates for each stock
-        ###get prices of the stock
+        for b,k8_code in enumerate(k8_list):
+            if "-25-" not in k8_code and "-24-" not in k8_code and "-23-" not in k8_code: 
+                continue
+            file_to_load = k8_dir+"//"+k8_code+"//full-submission.txt"
+            with open(file_to_load, 'r') as file:
+                content = file.read()  # Read the entire content of the file
+                #print(content)
+                if "Results of Operations and Financial Condition" in content and "Financial Statements and Exhibits" in content:
+                    what_to_find = "FILED AS OF DATE:"
+                    dates_start = content.find(what_to_find)
+                    date_end = content.find("\n",dates_start)
+                    date = content[dates_start:date_end]
+                    earnings_dates.append(date)
+        earnings_dates.sort()
+        earnings_dates.reverse()
+        earnings_dates=earnings_dates[0:8]
+        earnings_dates1 = earnings_dates
+        earn_dates2 = []
+        for b,date in enumerate(earnings_dates1):
+            new = date.replace("FILED AS OF DATE:","")
+            new = new.replace("\t","")
+            #print(new)
+            #new = new[0:4]+"-"+new[4:6]+"-"+new[6:8]
+            earn_dates2.append(new)
+        #print(earnings_dates1)
+        print(earn_dates2)
+        dates_list = earn_dates2
+        object_current_datetime = datetime.now()    
         list_prices = []
         prices_file = symbol + "-history.csv"
         with open(prices_file, mode='r') as file:
             reader = csv.reader(file)
             for row in reader:
                 list_prices.append(row)  # Add each row to the list
+        #print(list_prices)
         continue_list=  []
         reverse_list = []
-        for val in dates_list:
+        for specific_date in dates_list:
+            #print("specific_date",specific_date)
             days_surrounding = []
-            for val2 in list_prices:
-                if val in val2[0]:
-                    index_before=list_prices.index(val2)-1
-                    index_after=list_prices.index(val2)+1
+            for day_prices in list_prices:
+                day_prices[0] = day_prices[0].replace("-","")
+                if specific_date in day_prices[0]:
+                    #print("match! earn_date = ",specific_date,day_prices[0])
+                    index_before=list_prices.index(day_prices)-1
+                    index_after=list_prices.index(day_prices)+1
                     day_before = list_prices[index_before]
-                    day_listed = val2
+                    day_listed = day_prices
                     day_after = list_prices[index_after]
                     vol_day_of = int(day_listed[5])
                     vol_day_after = int(day_after[5])
@@ -309,19 +363,19 @@ def prices_around_earnings(match_file):
                     if vol_day_of<vol_day_after:
                         day_listed = ["       "]+day_listed
                         day_after = ["max_vol"]+day_after
-                    
                     days_surrounding.append(day_before)
                     days_surrounding.append(day_listed)
                     days_surrounding.append(day_after)
-            for a in range(0,len(days_surrounding)):
-                days_surrounding[a]=days_surrounding[a][0:7]
-            #print(symbol)
-            for a in range(0,len(days_surrounding)):
-                item =  days_surrounding[a]
+            #print(days_surrounding)
+            for c in range(0,len(days_surrounding)):
+                days_surrounding[c]=days_surrounding[c][0:7]
+                #print (days_surrounding[a])
+            for c in range(0,len(days_surrounding)):
+                item =  days_surrounding[c]
                 #print(symbol,item)
                 if "max_vol" in item:
                     morning = float(item[2])
-                    close_day_before = float(days_surrounding[a-1][5])
+                    close_day_before = float(days_surrounding[c-1][5])
                     gap = round(float(((morning/close_day_before)-1)*100),2)
                     continuance=""
                     reversal=""
@@ -358,7 +412,7 @@ def prices_around_earnings(match_file):
                         "reverse_max": reverse_value,
                     }
                     """
-                    print ("gap",changes['gap'],changes['open'],changes['day-1'])
+                    print (symbol,"gap",changes['gap'],changes['day-1'],changes['open'])
                     print ("continue%",changes['con_cent'],changes['continue_max'])
                     print ("reverse%",changes['rev_cent'],changes['reverse_max'])
                     print ("con_ratio",changes['ratio_con_rev'])
@@ -368,18 +422,23 @@ def prices_around_earnings(match_file):
                     reverse_list.append(ratio_rev_con)
 
         # Check if all values are over 2
-        #print(continue_list)
-        #print(reverse_list)
+        print(continue_list)
+        print(reverse_list)
+        print("len(dates_list)",len(dates_list))
+
 
         min_count = 4
         min_ratio = 2
         print(symbol)
         if len(continue_list)>min_count:
             if min(continue_list)>min_ratio:
-                print(continue_list)
+                double_continue.append(symbol)
         if len(reverse_list)>min_count:
             if min(reverse_list)>min_ratio:
-                print(reverse_list)
+                double_reverse.append(symbol)
+
+    print("double_continue",double_continue)
+    print("double_reverse",double_reverse)
 
 def specific_day(start_day,end_day, file_to_load):
     list = []
@@ -408,58 +467,27 @@ def specific_day(start_day,end_day, file_to_load):
              if check_date_obj<=end_date_obj:
                 correct_date.append(val)
             
-    print(correct_date)
+    #print(correct_date)
     #print(day_in_question)
+    correct_date = correct_date[0:30]
     for a,val in enumerate(correct_date):
         print(val)
-        """
-    previous_day_str = previous_day.strftime("%Y-%m-%d")
-    print(previous_day_str)
-    output = []
-    for item in list:
-        item[0] = int(item[0])
-        if day_in_question in item and "bmo" in item:
-            output.append(item)
-        if previous_day_str in item and "amc" in item:
-            output.append(item)
-    output.sort()
-    output.reverse()
-    #for item in output:
-    #    print(item)
-    """
-    
-start_date = "2025-02-10"
+
+start_date = "2025-02-01"
 end_date = "2025-02-20"
 file_name = start_date + "." + end_date
 match_file = "0match.csv"
 earnings_in_period = "0earnings_in_period.csv"
 
-"""
 finnhub_earnings(start_date, end_date, file_name)
 stocks_from_finnhub_data(earnings_in_period)
 gen_match_file('0vp_google_data.csv', "0vol_pri.csv", earnings_in_period,
                match_file)
-get_earnings_dates(match_file)
-
+get_earn_dates(match_file)
 get_history(match_file)
 prices_around_earnings(match_file)
 specific_day(start_date,end_date, match_file)
+
 """
-
-import requests
-
-# Example: Search for 8-K filings by company (CIK = 1045810)
-CIK = "1045810"  # Replace with the company's CIK (Central Index Key)
-url = f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={CIK}&type=8-K&dateb=&owner=exclude&count=100"
-
-# Send GET request to SEC's EDGAR
-response = requests.get(url)
-
-# Check if the request was successful (status code 200)
-if response.status_code == 200:
-    # Print HTML content (could also parse to extract links or filings)
-    with open('8k_filings.html', 'w', encoding='utf-8') as file:
-        file.write(response.text)
-    print("8-K filings content saved to '8k_filings.html'")
-else:
-    print(f"Failed to retrieve the page, status code: {response.status_code}")
+do function that erases value if it has less than 4 earnings per stock
+"""

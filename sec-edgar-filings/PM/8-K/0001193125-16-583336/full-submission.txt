@@ -1,0 +1,1788 @@
+<SEC-DOCUMENT>0001193125-16-583336.txt : 20160509
+<SEC-HEADER>0001193125-16-583336.hdr.sgml : 20160509
+<ACCEPTANCE-DATETIME>20160509124434
+ACCESSION NUMBER:		0001193125-16-583336
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20160503
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20160509
+DATE AS OF CHANGE:		20160509
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Philip Morris International Inc.
+		CENTRAL INDEX KEY:			0001413329
+		STANDARD INDUSTRIAL CLASSIFICATION:	CIGARETTES [2111]
+		IRS NUMBER:				133435103
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33708
+		FILM NUMBER:		161630772
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		(917) 663-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		120 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d189560d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant to Section&nbsp;13 or 15(d) of </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>The Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): May&nbsp;3, 2016 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Philip Morris International Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7.5pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:7.5pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Virginia</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-33708</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>13-3435103</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:7.5pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7.5pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7.5pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Commission File Number)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7.5pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7.5pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>120 Park Avenue,</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York, New York</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>10017-5592</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:7.5pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: (917)&nbsp;663-2000 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:7.5pt; font-family:Times New Roman" ALIGN="center"><B>(Former name or former address, if changed since last report.) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+</P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman"><B>Item&nbsp;8.01. Other Events. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="justify">On May&nbsp;9, 2016, PMI issued &#128;500,000,000 aggregate principal amount of its 2.000% Notes due 2036 (the &#147;Notes&#148;). The Notes
+were issued pursuant to an Indenture (the &#147;Indenture&#148;) dated as of April&nbsp;25, 2008, by and between PMI and HSBC Bank USA, National Association, as trustee (the &#147;Trustee&#148;). </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="justify">In connection with the issuance of the Notes, on May&nbsp;3, 2016, PMI entered into a Terms Agreement (the &#147;Terms Agreement&#148;) with
+the underwriters named therein (the &#147;Underwriters&#148;), pursuant to which PMI agreed to issue and sell the Notes to the Underwriters. The provisions of an Underwriting Agreement, dated as of April&nbsp;25, 2008 (the &#147;Underwriting
+Agreement&#148;), are incorporated by reference in the Terms Agreement. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="justify">PMI has filed with the Securities and Exchange Commission a
+Prospectus dated February&nbsp;21, 2014 and a Prospectus Supplement (the &#147;Prospectus Supplement&#148;) dated May&nbsp;3, 2016 (Registration No.&nbsp;333-194059) in connection with the public offering of the Notes. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="justify">The Notes are subject to certain customary covenants, including limitations on PMI&#146;s ability, with significant exceptions, to incur debt
+secured by liens and engage in sale/leaseback transactions. PMI may redeem the Notes, in whole or in part, at the applicable redemption prices described in the Prospectus Supplement, plus accrued and unpaid interest thereon to, but excluding, the
+applicable redemption date. PMI may also redeem all, but not part, of the Notes upon the occurrence of specified tax events as described in the Prospectus Supplement. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="justify">Interest on the Notes is payable annually on May&nbsp;9 of each year, commencing May&nbsp;9, 2017, to holders of record on the preceding
+April&nbsp;24. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman">The Notes will mature on May&nbsp;9, 2036. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="justify">The Notes will be PMI&#146;s senior unsecured obligations and will rank equally in right of payment with all of its existing and future senior
+unsecured indebtedness. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="justify">For a complete description of the terms and conditions of the Underwriting Agreement, the Terms Agreement and the
+Notes, please refer to such agreements and the form of Notes, each of which is incorporated herein by reference and is an exhibit to this report as Exhibits 1.1, 1.2 and 4.1, respectively. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="justify">Certain of the Underwriters and their respective affiliates have, from time to time, performed, and may in the future perform, various
+financial advisory, commercial and investment banking services for PMI, for which they received or will receive customary fees and expenses. Certain of the Underwriters or their respective affiliates are lenders under PMI&#146;s credit facilities.
+PMI and some of its subsidiaries may enter into foreign exchange and other derivative arrangements with certain of the Underwriters and their affiliates. In addition, certain of the Underwriters or their respective affiliates act as dealers in
+connection with PMI&#146;s commercial paper programs. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 2 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman"><B>Item&nbsp;9.01. Financial Statements and Exhibits. </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:11pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt"><U>Exhibits</U>. </P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:11pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="96%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:15.00pt; font-size:11pt; font-family:Times New Roman"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:54.40pt; font-size:11pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top" NOWRAP>1.1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">Underwriting Agreement, dated as of April 25, 2008 (incorporated by reference to Exhibit 1.1 of PMI&#146;s Registration
+Statement on Form S-3 (No. 333-150449))</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top" NOWRAP>1.2</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">Terms Agreement, dated May 3, 2016, among PMI and the Underwriters named therein</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top" NOWRAP>4.1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">Form of 2.000% Global Note due 2036</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top" NOWRAP>5.1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">Opinion of Hunton &amp; Williams LLP</P></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 3 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:11pt">
+
+
+<TR>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="86%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top" COLSPAN="3">PHILIP MORRIS INTERNATIONAL INC.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="49"></TD>
+<TD HEIGHT="49" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:11pt; font-family:Times New Roman">/s/ J<SMALL>ERRY</SMALL> W<SMALL>HITSON</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Jerry Whitson</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Deputy General Counsel and</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Corporate Secretary</TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman">DATE: May&nbsp;9, 2016 </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 4 - </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:11pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="96%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:15.00pt; font-size:11pt; font-family:Times New Roman"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:54.40pt; font-size:11pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">1.1</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">Underwriting Agreement, dated as of April 25, 2008 (incorporated by reference to Exhibit 1.1 of PMI&#146;s Registration
+Statement on Form S-3 (No. 333-150449))</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">1.2</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">Terms Agreement, dated May 3, 2016, among PMI and the Underwriters named therein</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">4.1</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">Form of 2.000% Global Note due 2036</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">5.1</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:11pt">Opinion of Hunton &amp; Williams LLP</P></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">- 5 - </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1.2
+<SEQUENCE>2
+<FILENAME>d189560dex12.htm
+<DESCRIPTION>EX-1.2
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-1.2</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 1.2 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PHILIP MORRIS INTERNATIONAL INC. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>(the &#147;<U>Company</U>&#148;) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Debt Securities </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B><U>TERMS AGREEMENT</U> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right">May&nbsp;3, 2016 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">P<SMALL>HILIP</SMALL>
+M<SMALL>ORRIS</SMALL> I<SMALL>NTERNATIONAL</SMALL> I<SMALL>NC</SMALL>. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">120 Park Avenue </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">New York, New York 10017 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Attention:&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Frank de Rooij </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Treasurer </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Dear Ladies and Gentlemen: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">We
+offer to purchase, on and subject to the terms and conditions of the Underwriting Agreement relating to Debt Securities and Warrants to Purchase Debt Securities dated as of April&nbsp;25, 2008 in connection with Philip Morris International
+Inc.&#146;s registration statement on Form&nbsp;S-3 (No.&nbsp;333-194059) and which is incorporated herein by reference (the &#147;<U>Underwriting Agreement</U>&#148;), the following securities on the following terms: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Debt Securities </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Title: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">2.000% Notes due 2036 (the &#147;<U>Notes</U>&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Principal Amount: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#128;500,000,000. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Interest
+Rate: </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">2.000%&nbsp;per annum, from May&nbsp;9, 2016, payable annually in arrears on May&nbsp;9, commencing&nbsp;May 9,
+2017, to holders of record on the preceding April&nbsp;24. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Maturity: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">May&nbsp;9, 2036. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Currency
+of Denomination: </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Euros (&#128;). </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Currency of Payment: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Euros (&#128;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Form and
+Denomination: </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Book-entry form only represented by one or more global securities deposited with Clearstream Banking,
+<I>soci&eacute;t&eacute; anonyme</I>, or Clearstream, or Euroclear Bank S.A./N.V., or Euroclear, or their respective designated custodian, as the case may be, in denominations of &#128;100,000 and integral multiples of &#128;1,000 in excess thereof.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Conversion Provisions: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">None. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Optional Redemption:
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Prior to the date that is three months prior to maturity, the Company may redeem the 2036 Notes, in whole or in part,
+at the Company&#146;s election at a make-whole price, as described under the caption &#147;Description of Notes&#151;Optional Redemption&#148; in the prospectus supplement. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">On or after the date that is three months prior to maturity, the Company may redeem the 2036 Notes, in whole or in part, at
+the Company&#146;s election, at par, as described under the caption &#147;Description of Notes&#151;Optional Redemption&#148; in the prospectus supplement. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Optional Tax Redemption: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">The Company may redeem all, but not part, of the Notes upon the occurrence of specified tax events described under the caption
+&#147;Description of Notes&#151;Redemption for Tax Reasons&#148; in the prospectus supplement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Option to Elect Repayment: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">None. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Sinking Fund:
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">None. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Listing:
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Application shall be made by the Company to list the Notes on the New York Stock Exchange. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Delayed Delivery Contracts: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">None. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Payment of Additional Amounts: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">In addition, the Company shall pay additional amounts to holders as and to the extent set forth under the caption
+&#147;Description of Notes&#151;Payment of Additional Amounts&#148; in the prospectus supplement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Purchase Price: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">99.160% of the principal amount of the Notes. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Expected Reoffering Price: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">99.560% of the principal amount of the Notes. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Names and Addresses of the Several Underwriters: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Banco Santander, S.A. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Ciudad Grupo Santander </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Avenida de Cantabria s/n </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Edificio Encinar, </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">28660, Boadilla del Monte, </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Madrid, Spain </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Attention: Head of Debt Capital Markets (Fax + 34 91 257 1376) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Barclays Bank PLC </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">5 The North Colonnade </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Canary Wharf </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">London E14 4BB </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">United Kingdom </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Attention: Debt Syndicate (Fax: +44 20 7516 7548) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Goldman, Sachs&nbsp;&amp; Co. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">200 West Street </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">New York, New York 10282-2198 </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">United States </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Attention: Registration Department </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Soci&eacute;t&eacute; G&eacute;n&eacute;rale </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">10 Bishops Square </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">London E1 6EG </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">United Kingdom </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Attention: Syndicate Desk GLFI/SYN/CAP/BND (Fax: +44 20 7702 3492) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Banco Bilbao Vizcaya Argentaria, S.A. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">One Canada Square </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">44<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> Floor </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Canary Wharf </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">London E14 5AA </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">United Kingdom </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Attention: Debt Capital Markets (dcmeurope.group@bbva.com) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">UBS Limited </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">1 Finsbury Avenue </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">London EC2M 2PP </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">United Kingdom </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Attention: Fixed Income Syndicate (Fax: +44 20 7567 4146) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">The respective principal amounts of the Debt Securities to be severally purchased by each of the Underwriters are set forth
+opposite their names in Schedule A hereto. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">In connection with the issue of the Notes, Barclays Bank PLC, as stabilizing
+manager (the &#147;<U>Stabilizing Manager</U>&#148;) (or persons acting on behalf of the Stabilizing Manager), may over-allot Notes or effect transactions with a view to supporting the price of the Notes at a level higher than that which might
+otherwise prevail. However, there is no assurance that the Stabilizing Manager (or persons acting on behalf of the Stabilizing Manager) will undertake stabilization action. Any stabilization action may begin on or after the date on which adequate
+public disclosure of the terms of the Notes is made and, if begun, may be ended at any time, but it must end no later than the earlier of 30 calendar days after the date on which the Company received the proceeds of the issue and 60 calendar days
+after the date of the allotment of the Notes. Such stabilization shall be conducted in accordance with all applicable laws and rules. Any loss or profit sustained as a consequence of any such over-allotment or stabilization shall be for the account
+of the Stabilizing Manager. The Underwriters acknowledge that the Company has not authorized the creation and issue of Notes in excess of &#128;500,000,000 in aggregate principal amount. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Except as set forth below, the provisions of the Underwriting Agreement are incorporated herein by reference and the following
+provisions are hereby added thereto and made a part thereof: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">1.&nbsp;&nbsp;&nbsp;&nbsp; For purposes of the Underwriting
+Agreement, the &#147;<U>Applicable Time</U>&#148; is 10:50 a.m. New York City time (3:50 p.m. London time) on the date of this Terms Agreement. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">2.&nbsp;&nbsp;&nbsp;&nbsp; Subsection (c)&nbsp;of Section&nbsp;3 of the Underwriting Agreement is hereby amended as follows:
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;(c)&nbsp;&nbsp;&nbsp;&nbsp; The Company will deliver against payment of the purchase price, the Offered Securities
+in the form of one or more permanent global securities in definitive form, which will be deposited with a common depositary for Euroclear Bank S.A./N.V. (&#147;<U>Euroclear</U>&#148;) and Clearstream Banking, soci&eacute;t&eacute; anonyme
+(&#147;<U>Clearstream</U>&#148;). Interests in any permanent global securities will be held only in book-entry form through Euroclear or Clearstream, except in the limited circumstances described in the Pricing Prospectus and the Prospectus. Payment
+for any Offered Securities in book-entry form shall be made by the Underwriters in federal (same day) funds by wire transfer to an account previously designated by the Company to the common </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">
+depositary against delivery to the common depositary as custodian for the permanent global securities, collectively representing all of such Offered Securities.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">3.&nbsp;&nbsp;&nbsp;&nbsp; For purposes of Section&nbsp;6 of the Underwriting Agreement, the only information furnished to the
+Company by the Underwriters for use in the prospectus supplement consists of the following information: the concession and reallowance figures appearing in the third paragraph under the caption &#147;Underwriting&#148; in the prospectus supplement
+and the information contained in the fifth, sixth, eighth, tenth and eleventh paragraphs under the caption &#147;Underwriting&#148; in the prospectus supplement. In addition, subsection&nbsp;(a) of Section&nbsp;6 of the Underwriting Agreement is
+hereby amended by replacing &#147;Pricing Prospectus&#148; with &#147;Pricing Prospectus or the Prospectus.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">4.&nbsp;&nbsp;&nbsp;&nbsp; The following selling restrictions apply to the offer and sale of the Notes: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(a)&nbsp;&nbsp;&nbsp;&nbsp; Each Underwriter hereby severally represents and agrees that it has not offered,
+sold or delivered and it will not offer, sell or deliver, directly or indirectly, any of the Notes or distribute the Prospectus, or any other offering material relating to the Notes, in or from any jurisdiction except under circumstances that will
+result in compliance with the applicable laws and regulations thereof and that will not impose any obligations on the Company except as agreed to with the Company in advance of such offer, sale or delivery. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(b)&nbsp;&nbsp;&nbsp;&nbsp; Each Underwriter hereby severally represents and agrees that in relation to each
+Member State of the European Economic Area which has implemented the Prospectus Directive (each, a &#147;<U>Relevant Member State</U>&#148;), each underwriter hereby severally represents and agrees that with effect from and including the date on
+which the Prospectus Directive is implemented in that Relevant Member State (the Relevant Implementation Date) it has not made and will not make an offer of Notes which are the subject of the offering contemplated by the Prospectus to the public in
+that Relevant Member State other than: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:15%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(1)&nbsp;&nbsp;&nbsp;&nbsp; to any legal entity which is a
+qualified investor as defined in the Prospectus Directive; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:15%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(2)&nbsp;&nbsp;&nbsp;&nbsp; to fewer than 150
+natural or legal persons (other than qualified investors as defined in the Prospectus Directive), subject to obtaining the prior consent of the relevant Dealer or Dealers nominated by the Company for any such offer; or </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:15%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(3)&nbsp;&nbsp;&nbsp;&nbsp; in any other circumstances falling within Article 3(2) of the Prospectus
+Directive, </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:10%; font-size:12pt; font-family:Times New Roman" ALIGN="justify"><I>provided</I> that no such offer of Notes shall require the Company or any underwriter to publish a
+prospectus pursuant to Article 3 of the Prospectus Directive or supplement a prospectus pursuant to Article 16 of the Prospectus Directive. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">For the purposes of this provision, the expression an &#147;offer
+of Notes to the public&#148; in relation to any Notes in any Relevant Member State means the communication in any form and by any means of sufficient information on the terms of the offer and the Notes to be offered so as to enable an investor to
+decide to purchase or subscribe for Notes, as the same may be varied in that Relevant Member State by any measure implementing the Prospectus Directive in that Relevant Member State, the expression &#147;Prospectus Directive&#148; means Directive
+2003/71/EC, as amended, and includes any relevant implementing measure in the Relevant Member State. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(c)&nbsp;&nbsp;&nbsp;&nbsp; Each Underwriter hereby severally represents and agrees that (1)&nbsp;it has only
+communicated or caused to be communicated and will only communicate or cause to be communicated an invitation or inducement to engage in investment activity (within the meaning of Section&nbsp;21 of the Financial Services and Markets Act 2000 (the
+&#147;<U>FSMA</U>&#148;)) received by it in connection with the issue or sale of the Notes in circumstances in which Section&nbsp;21(1) of the FSMA does not apply to the Company; and (2)&nbsp;it has complied and will comply with all applicable
+provisions of the FSMA with respect to anything done by it in relation to the Notes in, from or otherwise involving the United Kingdom. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(d)&nbsp;&nbsp;&nbsp;&nbsp; Each Underwriter hereby severally represents and agrees that (1)&nbsp;it has not
+offered or sold and will not offer or sell in Hong Kong, by means of any document, any Notes other than (A)&nbsp;to persons whose ordinary business is to buy or sell shares or debentures (whether as principal or agent); or (B)&nbsp;to
+&#147;professional investors&#148; as defined in the Securities and Futures Ordinance (Cap. 571) of Hong Kong and any rules made under that Ordinance; or (C)&nbsp;in other circumstances which do not result in the document being a
+&#147;prospectus&#148; as defined in the Companies Ordinance (Cap. 32) of Hong Kong or which do not constitute an offer to the public within the meaning of that Ordinance; and (2)&nbsp;it has not issued or had in its possession for the purposes of
+issue, and will not issue or have in its possession for the purposes of issue, whether in Hong Kong or elsewhere, any advertisement, invitation or document relating to the Notes, which is directed at, or the contents of which are likely to be
+accessed or read by, the public of Hong Kong (except if permitted to do so under the securities laws of Hong Kong) other than with respect to Notes which are or are intended to be disposed of only to persons outside Hong Kong or only to
+&#147;professional investors&#148; as defined in the Securities and Futures Ordinance and any rules made under that Ordinance. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(e)&nbsp;&nbsp;&nbsp;&nbsp; Each Underwriter hereby severally represents and agrees that it will not offer or
+sell the Notes or make the Notes the subject of an invitation for subscription or purchase nor may it circulate or distribute the Prospectus or any other document or material in connection with the offer or sale or invitation for subscription or
+purchase of any Notes, whether directly or indirectly, to any person in Singapore other than (1)&nbsp;to an institutional investor pursuant to Section&nbsp;274 of the Securities and Futures Act, Chapter 289 of Singapore (the &#147;<U>Securities and
+Futures Act</U>&#148;), (2)&nbsp;to a relevant person, or any person pursuant to Section&nbsp;275(1A) of the Securities and Futures Act, and in accordance with the conditions specified in Section&nbsp;275 of the Securities and Futures Act, or
+(3)&nbsp;pursuant to, and in accordance with the conditions of, any other applicable provision of the Securities and Futures Act. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:5%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(f)&nbsp;&nbsp;&nbsp;&nbsp; Each Underwriter hereby severally
+represents and agrees that it will not offer or sell any Notes, directly or indirectly, in Japan or to, or for the benefit of, any resident of Japan (which term as used herein means any person resident in Japan, including any corporation or other
+entity organized under the laws of Japan), or to others for re-offering or resale, directly or indirectly, in Japan or to, or for the benefit of, a resident of Japan except pursuant to an exemption from the registration requirements of, and
+otherwise in compliance with, the Financial Instruments and Exchange Law of Japan (Law No.&nbsp;25 of 1948, as amended) and any other applicable laws, regulations and ministerial guidelines of Japan. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:5%; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(g)&nbsp;&nbsp;&nbsp;&nbsp; Each Underwriter hereby severally represents and agrees that it has offered or
+sold and will offer or sell the Notes only to purchasers purchasing, or deemed to be purchasing, as principal that are accredited investors, as defined in National Instrument 45-106 <I>Prospectus Exemptions</I> or subsection 73.3(1) of the
+<I>Securities Act</I> (Ontario), and are permitted clients, as defined in National Instrument 31-103 <I>Registration Requirements, Exemptions and Ongoing Registrant Obligations</I>; any resale of the Notes will be made in accordance with an
+exemption from, or in a transaction not subject to, the prospectus requirements of applicable securities laws; and pursuant to section 3A.3 of National Instrument 33-105 <I>Underwriting Conflicts</I> (NI 33-105), the underwriters are not required to
+comply with the disclosure requirements of NI 33-105 regarding underwriter conflicts of interest in connection with the offering of the Notes. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">5. &nbsp;&nbsp;&nbsp;&nbsp;(a) Notwithstanding any other term of this agreement, the Underwriting Agreement or any other
+agreements, arrangements, or understanding between the Underwriters and the Company, each party acknowledges, accepts, and agrees to be bound by: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(i) the effect of the exercise of Bail-in Powers by the Relevant Resolution Authority in relation to any BRRD Liability of the
+Underwriters to the Company under this agreement and the Underwriting Agreement, that (without limitation) may include and result in any of the following, or some combination thereof: (w)&nbsp;the reduction of all, or a portion, of the BRRD
+Liability or outstanding amounts due thereon; (x)&nbsp;the conversion of all, or a portion, of the BRRD Liability into shares, other securities or other obligations of the Underwriters or another person (and the issue to or conferral on the Company
+of such shares, securities or obligations); (y)&nbsp;the cancellation of the BRRD Liability; (z)&nbsp;the amendment or alteration of any interest, if applicable, thereon, the maturity or the dates on which any payments are due, including by
+suspending payment for a temporary period; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(ii) the variation of the terms of this agreement and the Underwriting
+Agreement, as deemed necessary by the Relevant Resolution Authority, to give effect to the exercise of Bail-in Powers by the Relevant Resolution Authority. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(b) As used in this Section&nbsp;5, </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>Bail-in Legislation</U>&#148; means in relation to a member state of the European Economic Area which has
+implemented, or which at any time implements, the BRRD, the relevant implementing law, regulation, rule or requirement as described in the EU Bail-in Legislation Schedule from time to time; </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>Bail-in Powers</U>&#148; means any Write-down and Conversion Powers as
+defined in relation to the relevant Bail-in Legislation; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>BRRD</U>&#148; means Directive 2014/59/EU establishing
+a framework for the recovery and resolution of credit institutions and investment firms; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>BRRD
+Liability</U>&#148; has the same meaning as in such laws, regulations, rules or requirements implementing the BRRD under the applicable Bail-in Legislation; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>EU Bail-in Legislation Schedule</U>&#148; means the document described as such, then in effect, and published by the
+Loan Market Association (or any successor person) from time to time at http://www.lma.eu.com/; and </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&#147;<U>Relevant
+Resolution Authority</U>&#148; means the resolution authority with the ability to exercise any Bail-in Powers in relation to the Underwriters. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">(c) For the avoidance of doubt, to the extent an Underwriter&#146;s obligation to purchase Securities hereunder constitutes a
+BRRD Liability and such Underwriter does not, on the Closing Date, purchase the full amount of the Notes that it has agreed to purchase hereunder due to the exercise by the Relevant Resolution Authority of its powers under the relevant Bail-in
+Legislation with respect to such BRRD Liability, such Underwriter shall be deemed, for all purposes of Section&nbsp;7 of the Underwriting Agreement, to have defaulted on its obligation to purchase such Notes that it has agreed to purchase hereunder
+but has not purchased, and Section&nbsp;7 of the Underwriting Agreement shall remain in full force and effect with respect to the obligations of the other Underwriters. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">The Closing will take place at 4:00&nbsp;a.m., New York City time, on May&nbsp;9, 2016, at the offices of Hunton&nbsp;&amp;
+Williams LLP, 200 Park Avenue, New York, New York 10166. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">The Notes will be made available for checking at the offices of
+Hunton&nbsp;&amp; Williams LLP, 200 Park Avenue, New York, New York 10166 (unless another location shall be agreed to by the Company and the Underwriters) at least 24 hours prior to the Closing Date. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Please signify your acceptance by signing the enclosed response to us in the
+space provided and returning it to us. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt">
+
+
+<TR>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Very truly yours,</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27" COLSPAN="3"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">BANCO SANTANDER, S.A.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27"></TD>
+<TD HEIGHT="27" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">/s/ A<SMALL>LBERTO</SMALL> R<SMALL>AMON</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Alberto Ramon</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: Exec. Director</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27"></TD>
+<TD HEIGHT="27" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">/s/ I<SMALL>GNACIO</SMALL> B<SMALL>AS</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Ignacio Bas</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: Vice President</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27" COLSPAN="3"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">BARCLAYS BANK PLC</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27"></TD>
+<TD HEIGHT="27" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">/s/ B<SMALL>ARBARA</SMALL> M<SMALL>ARINIELLO</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Barbara Mariniello</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: Managing Director</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27" COLSPAN="3"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">GOLDMAN, SACHS&nbsp;&amp; CO.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27"></TD>
+<TD HEIGHT="27" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">/s/ A<SMALL>DAM</SMALL> G<SMALL>REENE</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Adam Greene</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: Vice President</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27" COLSPAN="3"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">SOCI&Eacute;T&Eacute; G&Eacute;N&Eacute;RALE</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27"></TD>
+<TD HEIGHT="27" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">/s/ J<SMALL>ONATHAN</SMALL> W<SMALL>EINBERGER</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Jonathan Weinberger</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: Managing Director</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27" COLSPAN="3"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">BANCO BILBAO VIZCAYA</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">ARGENTARIA, S.A.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27"></TD>
+<TD HEIGHT="27" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">/s/ A<SMALL>LVARO</SMALL> S<SMALL>OLIS</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Alvaro Solis</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: MD</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="27"></TD>
+<TD HEIGHT="27" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">/s/ S<SMALL>ANDRA</SMALL> <SMALL>DE</SMALL> <SMALL>LAS</SMALL>
+C<SMALL>AVADAS</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Sandra de las Cavadas</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: ED</P></TD></TR>
+</TABLE></DIV> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I></I>[<I>Signature Page
+to Terms Agreement</I>]<I> </I></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt">
+
+
+<TR>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">UBS LIMITED</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:12pt; font-family:Times New Roman" ALIGN="justify">/s/ B<SMALL>EN</SMALL> N<SMALL>OVICK</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Ben Novick</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: Director</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="40"></TD>
+<TD HEIGHT="40" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:12pt; font-family:Times New Roman" ALIGN="justify">/s/ E<SMALL>GBERTUS</SMALL> S<SMALL>UER</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Egbertus Suer</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: Managing Director</P></TD></TR>
+</TABLE></DIV> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:120pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:120pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:120pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I></I>[<I>Signature Page
+to Terms Agreement</I>]<I> </I></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt">
+
+
+<TR>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Accepted:</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">PHILIP MORRIS INTERNATIONAL INC.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="49"></TD>
+<TD HEIGHT="49" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:12pt; font-family:Times New Roman" ALIGN="justify">/s/ F<SMALL>RANK</SMALL> <SMALL>DE</SMALL> R<SMALL>OOIJ</SMALL></P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Frank de Rooij</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: Assistant Treasurer</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:120pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:120pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:120pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I></I>[<I>Signature Page
+to Terms Agreement</I>]<I> </I></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE A </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>DEBT SECURITIES </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="84%"></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="bottom" NOWRAP STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman"><B>Underwriter</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>&nbsp;&nbsp;&nbsp;&nbsp;2036&nbsp;Notes&nbsp;&nbsp;&nbsp;&nbsp;</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Banco Santander, S.A.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&#128;</TD>
+<TD VALIGN="bottom" ALIGN="right">&nbsp;&nbsp;117,500,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Barclays Bank PLC</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">117,500,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Goldman, Sachs&nbsp;&amp; Co.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">117,500,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Soci&eacute;t&eacute; G&eacute;n&eacute;rale</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">117,500,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Banco Bilbao Vizcaya Argentaria, S.A.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">15,000,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">UBS Limited</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">15,000,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman"><B>Total</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><B>&nbsp;&#128;</B></TD>
+<TD VALIGN="bottom" ALIGN="right"><B>&nbsp;&nbsp;500,000,000</B></TD>
+<TD NOWRAP VALIGN="bottom"><B>&nbsp;&nbsp;</B></TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE B </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Issuer Free Writing Prospectuses not included in the Pricing Disclosure Package: None </P></TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Issuer Free Writing Prospectuses included in the Pricing Disclosure Package: Final Term Sheet, attached as
+Schedule&nbsp;C hereto </P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Additional Documents Incorporated by Reference: None </P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE C </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right"><B>Filed Pursuant to Rule 433 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right"><B>Registration No.&nbsp;333-194059 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>FINAL TERM SHEET </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Philip Morris International Inc. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Dated May&nbsp;3, 2016 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>2.000% Notes due 2036 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="65%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Issuer:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Philip Morris International Inc.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Offering Format:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">SEC Registered</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Security:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">2.000% Notes due 2036 (the &#147;Notes&#148;)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Aggregate Principal Amount:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">&#128;500,000,000</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Maturity Date:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">May 9, 2036</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Coupon:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">2.000%</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Interest Payment Dates:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Annually on May 9, commencing May 9, 2017</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Price to Public:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">99.560% of principal amount</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Underwriting Discount:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">0.400%</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Net Proceeds:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">&#128;495,800,000 (before expenses)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Benchmark Security:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">DBR 4.750% due July 2034</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Benchmark Security Yield:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">0.664%</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Spread to Benchmark Security:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">+136.3 basis points</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Re-Offer Yield:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">2.027%</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Mid-Swap Yield:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">1.127%</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Spread to Mid-Swap Yield:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">+90 basis points</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Optional Redemption:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Prior to February 9, 2036: Make-whole redemption at Comparable Government Bond Rate plus 20&nbsp;bps</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">On or after February 9, 2036: Redemption at par</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Settlement Date (T+4):</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">May 9, 2016</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Common Code / CUSIP / ISIN:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Common Code: 140842176</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">CUSIP Number: 718172 BV0</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">ISIN
+Number: XS1408421763</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Listing:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Application will be made to list the Notes on the New York Stock
+Exchange</P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="8%"></TD>
+<TD WIDTH="59%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Joint Book-Running Managers:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Banco Santander, S.A.</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Barclays Bank PLC</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Goldman, Sachs
+&amp; Co.</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Soci&eacute;t&eacute; G&eacute;n&eacute;rale</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt"><B>Joint Co-Managers:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Banco Bilbao Vizcaya Argentaria, S.A.</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">UBS Limited</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="84%"></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="bottom"><B>Allocations:</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>&nbsp;&nbsp;&nbsp;&nbsp;2036&nbsp;Notes&nbsp;&nbsp;&nbsp;&nbsp;</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Banco Santander, S.A.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&#128;</TD>
+<TD VALIGN="bottom" ALIGN="right">&nbsp;&nbsp;117,500,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Barclays Bank PLC</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">117,500,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Goldman, Sachs&nbsp;&amp; Co.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">117,500,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Soci&eacute;t&eacute; G&eacute;n&eacute;rale</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">117,500,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">Banco Bilbao Vizcaya Argentaria, S.A.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">15,000,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">UBS Limited</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">15,000,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman"><B>Total</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&#128;</TD>
+<TD VALIGN="bottom" ALIGN="right">500,000,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this
+communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these
+documents for free by visiting EDGAR on the SEC website at www.sec.gov. Alternatively, the issuer, any underwriter or any dealer participating in the offering will arrange to send you the prospectus if you request it by calling Barclays Bank PLC
+toll-free at 1-888-603-5847 or Goldman, Sachs&nbsp;&amp; Co. toll-free at 1-866-471-2526. </B></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.1
+<SEQUENCE>3
+<FILENAME>d189560dex41.htm
+<DESCRIPTION>EX-4.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-4.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 4.1 </B></P>
+<P STYLE="margin-top:36pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">REGISTERED </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">No. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">PHILIP MORRIS INTERNATIONAL INC. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">2.000% NOTE DUE 2036</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">PRINCIPAL AMOUNT</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">&#128;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">CUSIP NO. 718172 BV0</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">COMMON CODE 140842176</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">ISIN NO. XS1408421763</P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">THIS NOTE IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE HEREINAFTER REFERRED TO
+AND IS REGISTERED IN THE NAME OF A DEPOSITARY OR A NOMINEE THEREOF. UNLESS AND UNTIL IT IS EXCHANGED IN WHOLE OR IN PART FOR NOTES IN CERTIFICATED FORM, THIS NOTE MAY NOT BE TRANSFERRED EXCEPT AS A WHOLE BY EUROCLEAR BANK S.A./N.V. OR BY CLEARSTREAM
+BANKING, SOCI&Eacute;T&Eacute; ANONYME (EACH, A &#147;DEPOSITARY&#148;) TO A NOMINEE OF THE DEPOSITARY OR BY THE DEPOSITARY OR ANY SUCH NOMINEE TO A SUCCESSOR DEPOSITARY OR A NOMINEE OF SUCH SUCCESSOR DEPOSITARY. UNLESS THIS NOTE IS PRESENTED BY AN
+AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY TO THE COMPANY OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY NOTE ISSUED IS REGISTERED IN THE NAME OF HSBC ISSUER SERVICES COMMON DEPOSITARY NOMINEE (UK) LIMITED OR IN SUCH OTHER
+NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY (AND ANY PAYMENT IS MADE TO HSBC BANK USA, NATIONAL ASSOCIATION OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY), ANY TRANSFER, PLEDGE
+OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, HSBC ISSUER SERVICES COMMON DEPOSITARY NOMINEE (UK) LIMITED, HAS AN INTEREST HEREIN. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">PHILIP MORRIS INTERNATIONAL INC., a Virginia corporation (hereinafter called the &#147;Company&#148;, which term includes any successor
+corporation under the Indenture hereinafter referred to), for value received, hereby promises to pay to HSBC Issuer Services Common Depositary Nominee (UK) Limited or registered assigns, the principal sum of &#128;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on May&nbsp;9, 2036, and to pay interest thereon from May&nbsp;9, 2016 or from the most recent Interest Payment Date to which
+interest has been paid or duly provided for, annually in arrears on May&nbsp;9 of each year, commencing May&nbsp;9, 2017, at the rate of 2.000%&nbsp;per annum until the principal hereof is paid or made available for payment. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">The interest so payable, and punctually paid or duly provided for, on any Interest Payment Date
+will, as provided in the Indenture, be paid to the Person in whose name this Note (or one or more Predecessor Securities) is registered at the close of business on the Regular Record Date for such interest, which shall be April&nbsp;24 (whether or
+not a Business Day), as the case may be, next preceding such Interest Payment Date. Any such interest not so punctually paid or duly provided for shall forthwith cease to be payable to the Holder on such Regular Record Date and may be paid to the
+Person in whose name this Note (or one or more Predecessor Securities) is registered at the close of business on a Special Record Date for the payment of such Defaulted Interest to be fixed by the Trustee for the Notes, notice whereof shall be given
+to Holders of Notes not less than 10 days prior to such Special Record Date, or may be paid at any time in any other lawful manner not inconsistent with the requirements of any securities exchange on which the Notes may be listed, and upon such
+notice as may be required by such exchange, all as more fully provided in said Indenture. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">Interest on this Note will be calculated on
+the basis of the actual number of days in the period for which interest is being calculated and the actual number of days from and including the last date on which interest was paid on the Note (or May&nbsp;9, 2016 if no interest has been paid on
+this Note), to but excluding the next scheduled Interest Payment Date. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">Payment of the principal of (and premium, if any) and interest on
+this Note will be made at the office or agency of the Company maintained for that purpose in the City of London or the Borough of Manhattan, The City of New York, in such coin or currency of the member states of the European Monetary Union that have
+adopted or that adopt the single currency in accordance with the treaty establishing the European Community, as amended by the Treaty on European Union as at the time of payment shall be legal tender for the payment of public and private debts;
+<U>provided</U>, <U>however</U>, that at the option of the Company payment of interest may be made by check mailed to the address of the Person entitled thereto as such address shall appear on the Securities Register or by wire transfer at such
+place and to such account at a banking institution in the United States as may be designated in writing to the Trustee at least 15 days prior to the date for payment by the person entitled thereto. All payments of principal, premium, if any, and
+interest in respect of this Note will be made by the Company in immediately available funds. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">Additional provisions of this Note are
+contained on the reverse hereof, and such provisions shall have the same effect as though fully set forth in this place. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">Unless the
+certificate of authentication hereon has been executed by or on behalf of the Trustee for the Notes by manual signature, this Note shall not be entitled to any benefit under the Indenture, or be valid or obligatory for any purpose. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">IN WITNESS WHEREOF, PHILIP MORRIS INTERNATIONAL INC. has caused this instrument
+to be duly executed. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt">
+
+
+<TR>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Dated: May&nbsp;9, 2016</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="32" COLSPAN="3"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">PHILIP MORRIS INTERNATIONAL INC.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="32"></TD>
+<TD HEIGHT="32" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Andreas Kurali</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title: &nbsp;&nbsp;Vice President and Controller</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="65" COLSPAN="3"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Attest:</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="32"></TD>
+<TD HEIGHT="32" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Name: Markus Mueller</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">Title:&nbsp;&nbsp; Assistant General Counsel and</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Corporate
+Secretary</P></TD></TR>
+</TABLE></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">CERTIFICATE OF AUTHENTICATION </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">This is one of the Securities of the series designated therein described in the within-mentioned Indenture. </P>
+<P STYLE="font-size:48pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt">
+
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3">HSBC&nbsp;BANK&nbsp;USA,&nbsp;NATIONAL&nbsp;ASSOCIATION,</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">as Trustee</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="32"></TD>
+<TD HEIGHT="32" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Authorized Officer</TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:450pt; margin-bottom:0pt; font-size:9pt; font-family:Times New Roman" ALIGN="center">Global Note due 2036 </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">(Reverse of Note) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">PHILIP MORRIS INTERNATIONAL INC. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">This Note is one of a duly authorized issue of debentures, notes or other evidences of indebtedness (hereinafter called the
+&#147;Securities&#148;) of the Company of the series hereinafter specified, which series is limited in aggregate principal amount to &#128;500,000,000 (except as provided in the Indenture hereinafter mentioned), all such Securities issued and to be
+issued under an Indenture dated as of April&nbsp;25, 2008 between the Company and HSBC Bank USA, National Association, as Trustee (herein called the &#147;Indenture&#148;), to which Indenture and all other indentures supplemental thereto reference
+is hereby made for a statement of the rights and limitations of rights thereunder of the Holders of the Securities and of the rights, obligations, duties and immunities of the Trustee for each series of Securities and of the Company, and the terms
+upon which the Securities are and are to be authenticated and delivered. As provided in the Indenture, the Securities may be issued in one or more series, which different series may be issued in various aggregate principal amounts, may mature at
+different times, may bear interest, if any, at different rates, may be subject to different redemption provisions, if any, may be subject to different sinking, purchase or analogous funds, if any, may be subject to different covenants and Events of
+Default and may otherwise vary as in the Indenture provided or permitted. This Note is one of a series of the Securities designated therein as 2.000% Notes due 2036 (the &#147;Notes&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">Principal and interest payments in respect of the Notes are payable by the Company in Euro. If, however, the Euro is unavailable to the
+Company due to the imposition of exchange controls or other circumstances beyond the Company&#146;s control or if the Euro is no longer being used by the then member states of the European Monetary Union that have adopted the Euro as their currency
+or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the Notes will be made in Dollars until the Euro is again available to the Company or so used. The
+equivalent Dollar amount of the amount payable on any date in Euro will be calculated by the Currency Determination Agent designated by the Company at the rate mandated by the U.S. Federal Reserve Board as of the close of business on the second
+Business Day prior to the relevant payment date or, in the event the U.S. Federal Reserve Board has not mandated a rate of conversion, on the basis of the most recent Euro/Dollar exchange rate available on or prior to the second Business Day prior
+to the relevant payment date, as determined by the Company in the Company&#146;s sole discretion. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">So long as the Notes of this series
+are in the form of Global Securities only, all Notes of this series will collectively be evidenced by the Global Security of this series registered in the name of HSBC Issuer Services Common Depositary Nominee (UK) Limited (the &#147;Global
+Note&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">Section&nbsp;1010 of the Indenture shall be applicable to the Notes, except that (i)&nbsp;the term &#147;Holder,&#148; when
+used in Section&nbsp;1010 of the Indenture, shall mean the beneficial owner of a Note or any person holding on behalf or for the account of the beneficial owner of a Note; (ii)&nbsp;the following language shall replace subsection (k)&nbsp;to
+Section&nbsp;1010 of the Indenture &#147;any tax, assessment or other governmental charge imposed pursuant to the provisions of Sections 1471 </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">
+through 1474 of the Code&#148; and (iii)&nbsp;the following language shall be included as subsection (l)&nbsp;to Section&nbsp;1010 of the Indenture &#147;any combination of items (a), (b), (c),
+(d), (e), (f), (g), (h), (i), (j)&nbsp;and (k).&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">Prior to February&nbsp;9, 2036 (the date that is three months prior to the
+scheduled maturity date for the Notes), the Company may, at its option, redeem the Notes, in whole at any time or in part from time to time (in &#128;1,000 increments, provided that any remaining principal amount thereof shall be at least the
+minimum authorized denomination thereof), at a redemption price equal to the greater of (i)&nbsp;100% of the principal amount of the Notes to be redeemed and (ii)&nbsp;the sum of the present values of the Remaining Scheduled Payments (as defined
+below) of the Notes to be redeemed that would be due if such Notes were due on February&nbsp;9, 2036 (exclusive of interest accrued to the date of redemption) discounted to the redemption date on an annual basis (Actual/Actual (ICMA)), at a rate
+equal to the applicable Comparable Government Bond Rate (as defined below) plus 20 basis points plus, in either case, accrued and unpaid interest, if any, thereon to, but excluding, the redemption date. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">On or after February&nbsp;9, 2036 (the date that is three months prior to the scheduled maturity date for the Notes), the Company may, at its
+option, redeem the Notes, in whole at any time or in part from time to time (in &#128;1,000 increments, provided that any remaining principal amount thereof shall be at least the minimum authorized denomination thereof) at a redemption price equal
+to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest, if any, thereon to, but excluding, the redemption date. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">&#147;Comparable Government Bond Rate&#148; means, with respect to any redemption date, the price, expressed as a percentage (rounded to
+three decimal places, 0.0005 being rounded upwards), at which the gross redemption yield on the Notes to be redeemed, if they were to be purchased at such price on the third business day prior to the date fixed for redemption, would be equal to the
+gross redemption yield on such business day of the Reference Bond on the basis of the middle market price of the Reference Bond prevailing at 11:00 a.m. (London time) on such dealing day as determined by the Independent Investment Bank. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">&#147;Independent Investment Bank&#148; means one of the Reference Bond Dealers that the Company appoints as the Independent Investment Bank
+from time to time. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">&#147;Reference Bond&#148; means, in relation to any Comparable Government Bond Rate calculation, a German government
+bond whose maturity is closest to the maturity of the Notes, or if the Company or the Independent Investment Bank considers that such similar bond is not in issue, such other German government bond as the Company or the Independent Investment Bank,
+with the advice of three brokers of, and/or market makers in, German government bonds selected by the Company or the Independent Investment Bank, determine to be appropriate for determining the Comparable Government Bond Rate. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">&#147;Reference Bond Dealer&#148; means (A)&nbsp;each of Banco Santander, S.A., Barclays Bank PLC, Goldman, Sachs&nbsp;&amp; Co. and
+Soci&eacute;t&eacute; G&eacute;n&eacute;rale (or their respective affiliates that are Primary Bond Dealers), and their respective successors and (B)&nbsp;any other broker of, and/or market maker in, German government bonds (a &#147;Primary Bond
+Dealer&#148;) selected by the Company. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">&#147;Remaining Scheduled Payments&#148; means, with respect to the Notes to be redeemed, the
+remaining scheduled payments of principal of and interest on the relevant Note that would be due after the related redemption date but for the redemption. If that redemption date is not an Interest Payment Date with respect to a Note, the amount of
+the next succeeding scheduled interest payment on the relevant Note will be reduced by the amount of interest accrued on the applicable Note to, but excluding, the redemption date. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">If money sufficient to pay the redemption price on the Notes (or portions thereof) to be redeemed on the applicable redemption date is
+deposited with the Trustee or Paying Agent on or before the applicable redemption date and certain other conditions are satisfied, then on and after such redemption date, interest will cease to accrue on such Notes (or such portion thereof) called
+for redemption. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">The Company will, or will cause the Trustee or Paying Agent on its behalf to, mail notice of a redemption to Holders of
+the Notes to be redeemed by first-class mail (or otherwise transmit in accordance with applicable procedures of the Depositary) at least 30 and not more than 60 days prior to the date fixed for redemption. Unless the Company defaults in payment of
+the redemption price, on and after the redemption date, interest will cease to accrue on the Notes or any portions thereof called for redemption. On or before the applicable redemption date, the Company will deposit with the Trustee or Paying Agent
+or set aside, segregate and hold in trust (if the Company is acting as Paying Agent), funds sufficient to pay the redemption price of, and accrued and unpaid interest on, such Notes to be redeemed on that redemption date. If fewer than all of the
+Notes are to be redeemed, the Trustee or Paying Agent will select, not more than 60 days prior to the redemption date, the particular Notes or any portions thereof for redemption from the outstanding Notes not previously called by such method as the
+Trustee or Paying Agent deems fair and appropriate and in accordance with the applicable procedures of the Depositary; provided, however, that no Notes of a principal amount of &#128;100,000 or less shall be redeemed in part. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">The Company may redeem the Notes prior to maturity in whole, but not in part, on not more than 60 days&#146; notice and not less than 30
+days&#146; notice at a redemption price equal to the principal amount of such Notes plus any accrued interest and additional amounts to the date fixed for redemption if: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">as a result of a change in or amendment to the tax laws, regulations or rulings of the United States or any political subdivision or taxing authority of or in the United States or any change in official position
+regarding the application or interpretation of such laws, regulations or rulings (including a holding by a court of competent jurisdiction in the United States) that is announced or becomes effective on or after May&nbsp;9, 2016, the Company has or
+will become obligated to pay additional amounts with respect to the Notes as described in Section&nbsp;1010 of the Indenture, or </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">on or after May&nbsp;9, 2016, any action is taken by a taxing authority of, or any decision is rendered by a
+court of competent jurisdiction in, the United States or any political subdivision or taxing authority of or in the United States, including any of those actions specified in the bullet point above, whether or not such action
+</P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="15%">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">
+is taken or decision is rendered with respect to the Company, or any change, amendment, application or interpretation is officially proposed, which, in any such case, in the written opinion of
+independent legal counsel of recognized standing, will result in a material probability that the Company will become obligated to pay additional amounts with respect to the Notes, </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">and the Company in its business judgment determines that such obligations cannot be avoided by the use of reasonable measures available to the Company. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">If the Company exercises its option to redeem the Notes for tax reasons, the Company will deliver to the Trustee a certificate signed by an
+authorized officer stating that it is entitled to redeem the Notes and the written opinion of independent legal counsel if required. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">The
+Indenture contains provisions for defeasance at any time of the entire principal of all the Securities of any series upon compliance by the Company with certain conditions set forth therein. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">If an Event of Default (other than an Event of Default described in Section&nbsp;501(4) or 501(5) of the Indenture) with respect to the Notes
+shall occur and be continuing, then either the Trustee or the Holders of at least 25% in aggregate principal amount of the Securities of all series then Outstanding (or, if such default is not applicable to all series of the Securities, the Holders
+of at least 25% in principal amount of the then Outstanding Securities of all series to which it is applicable) (in each case voting as a single class) may declare the entire principal amount of the Securities of all series so affected due and
+payable in the manner and with effect provided in the Indenture. If an Event of Default specified in Section&nbsp;501(4) or 501(5) occurs with respect to the Company, all of the unpaid principal amount and accrued interest then Outstanding shall
+<I>ipso facto</I> become and be immediately due and payable in the manner with the effect provided in the Indenture without any declaration or other act by the Trustee or any Holder. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">The Indenture permits, with certain exceptions as therein provided, the amendment thereof and the modification of the rights and obligations
+of the Company and the rights of the Holders of the Securities under the Indenture at any time by the Company with the consent of the Holders of not less than a majority in aggregate principal amount of the Outstanding Securities of all series of
+Securities affected thereby (voting as a single class). The Indenture also contains provisions permitting the Holders of specified percentages in aggregate principal amount of the Securities of all series affected thereby at the time Outstanding
+(voting as a single class) to waive compliance by the Company with certain provisions of the Indenture and certain past defaults under the Indenture and their consequences to the affected series. Any such consent or waiver by the Holder of this Note
+shall be conclusive and binding upon such Holder and upon all future Holders of this Note and of any Note issued upon the transfer hereof or in exchange or in lieu hereof whether or not notation of such consent or waiver is made upon this Note. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">No reference herein to the Indenture and no provision of this Note or of the Indenture shall alter or impair the obligation of the Company,
+which is absolute and unconditional, to pay the principal of (and premium, if any) and interest on this Note at the times, place and rate, and in the coin or currency, herein and in the Indenture prescribed. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">As provided in the Indenture and subject to certain limitations therein set forth, this Note is
+transferable on the Security Register of the Company, upon surrender of this Note for registration of transfer at the office or agency of the Company to be maintained for that purpose in the Borough of Manhattan, The City of New York, or at any
+other office or agency of the Company maintained for that purpose, duly endorsed by, or accompanied by a written instrument of transfer in form satisfactory to the Company and the Security Registrar duly executed by the Holder hereof or his or her
+attorney duly authorized in writing, and thereupon one or more new Notes, of authorized denominations and for the same aggregate principal amount, will be issued to the designated transferee or transferees. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">The Notes are issuable only in registered form in denominations of &#128;100,000 and any integral multiple of &#128;1,000 in excess thereof.
+As provided in the Indenture and subject to certain limitations therein set forth, Notes are exchangeable for a like aggregate principal amount of Notes of a like tenor and of a different authorized denomination, as requested by the Holder
+surrendering the same. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">No service charge shall be made for any such registration of transfer or exchange, but the Company may require
+payment of a sum sufficient to cover any tax or other governmental charge payable in connection therewith. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">The Company, the Trustee for
+the Notes and any agent of the Company or such Trustee may treat the Person in whose name this Note is registered as the owner hereof for the purpose of receiving payment as herein provided and for all other purposes, whether or not this Note be
+overdue, and neither the Company, such Trustee nor any such agent shall be affected by notice to the contrary. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman">Certain of the
+Company&#146;s obligations under the Indenture with respect to Notes may be terminated if the Company irrevocably deposits with the Trustee money or Government Obligations sufficient to pay and discharge the entire indebtedness on all Notes, as
+provided in the Indenture. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman" ALIGN="justify"><B>This Note shall for all purposes be governed by, and construed in accordance with, the
+laws of the State of New York. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">For purposes of the Notes, the term &#147;Business Day&#148; means any day other than
+(1)&nbsp;a Saturday or Sunday or a day on which commercial banks in the City of New York or the City of London are authorized or required by law, regulation or executive order to close and (2)&nbsp;a day on which the Trans-European Automated
+Real-time Gross Settlement Express Transfer (TARGET or TARGET2) system is not open. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:10%; font-size:12pt; font-family:Times New Roman" ALIGN="justify">Certain terms used in this Note
+which are defined in the Indenture have the meanings set forth therein. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">ASSIGNMENT FORM </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">FOR VALUE RECEIVED, the undersigned hereby sells, assigns and transfers unto </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">PLEASE INSERT SOCIAL SECURITY NUMBER OR </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">OTHER IDENTIFYING
+NUMBER OF ASSIGNEE </P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">(Name and address of Assignee, including zip code, must be printed or typewritten) </P> <P STYLE="font-size:36pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P> <P STYLE="font-size:36pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">the within Note, and all rights thereunder, hereby
+irrevocably, constituting and appointing </P> <P STYLE="font-size:36pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="font-size:36pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Attorney to transfer the said Note on the books of Philip Morris International Inc. with full power of substitution in the premises. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Dated: <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="15%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="25%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="56%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:12pt; font-family:Times New Roman" ALIGN="justify">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">NOTICE: The signature to this assignment must correspond with the</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">name as it appears upon the face of the within Note in every particular,</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman" ALIGN="justify">without alteration or enlargement or any change whatsoever.</P></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>4
+<FILENAME>d189560dex51.htm
+<DESCRIPTION>EX-5.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-5.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 5.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:7.5pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:7.5pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt ; margin-bottom:0pt" ALIGN="justify">
+
+
+<IMG SRC="g189560page31.jpg" ALT="LOGO">
+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:8.00em; font-size:7.5pt; font-family:Times New Roman">H<SMALL>UNTON</SMALL> &amp; W<SMALL>ILLIAMS</SMALL> LLP</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:8.00em; font-size:7.5pt; font-family:Times New Roman">200 P<SMALL>ARK</SMALL> A<SMALL>VENUE</SMALL></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:8.00em; font-size:7.5pt; font-family:Times New Roman">N<SMALL>EW</SMALL> Y<SMALL>ORK</SMALL>, N<SMALL>EW</SMALL> Y<SMALL>ORK</SMALL> 10166-0005</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:8.00em; font-size:7.5pt; font-family:Times New Roman">T<SMALL>EL</SMALL>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;212 &#149; 309 &#149; 1000</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:8.00em; font-size:7.5pt; font-family:Times New Roman">F<SMALL>AX</SMALL>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;212 &#149; 309 &#149; 1100</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="32"></TD>
+<TD HEIGHT="32" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:7.5pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:12pt">May&nbsp;9, 2016</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:8.00em; font-size:7.5pt; font-family:Times New Roman">F<SMALL>ILE</SMALL> N<SMALL>O</SMALL>: 41147.000441</P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Board of Directors </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Philip
+Morris International Inc. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">120 Park Avenue </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">New York, New
+York 10017 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Re: <U>Legality of Securities Issued under Registration Statement on Form S-3</U> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Ladies and Gentlemen: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">We have acted as special
+counsel to Philip Morris International Inc., a Virginia corporation (the &#147;Company&#148;), in connection with (1)&nbsp;the registration by the Company of an indeterminate amount of its debt securities (the &#147;Debt Securities&#148;) and
+warrants to purchase Debt Securities, as set forth in the Registration Statement on Form S-3 (Registration No.&nbsp;333-194059) (the &#147;Registration Statement&#148;) filed by the Company on February&nbsp;21, 2014 with the Securities and Exchange
+Commission (the &#147;Commission&#148;) pursuant to the Securities Act of 1933, as amended (the &#147;Act&#148;), and (2)&nbsp;the Company&#146;s offering and sale of &#128;500,000,000 aggregate principal amount of its 2.000% Notes due 2036 (the
+&#147;Notes&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">The Notes were offered and sold as described in the prospectus, dated February&nbsp;21, 2014, contained in the
+Registration Statement, and the prospectus supplement thereto, dated May&nbsp;3, 2016 (collectively, the &#147;Prospectus&#148;). The Notes have been issued pursuant to an indenture (the &#147;Indenture&#148;), dated as of April&nbsp;25, 2008, among
+the Company and HSBC Bank USA, National Association, as trustee. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">This opinion is being furnished in accordance with the requirements of
+Item&nbsp;16 of Form S-3 and Item&nbsp;601(b)(5)(i) of Regulation S-K. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">We have examined originals or reproductions or certified copies of
+such records of the Company, certificates of officers of the Company and of public officials and such other documents as we have deemed necessary for the purpose of rendering this opinion, including, among other things: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top">the Amended and Restated Articles of Incorporation of the Company, as amended through the date hereof; </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top">the Amended and Restated By-laws of the Company, as amended through the date hereof; </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:7.5pt; font-family:Times New Roman" ALIGN="center">ATLANTA
+&nbsp;&nbsp;AUSTIN &nbsp;&nbsp;BANGKOK &nbsp;&nbsp;BEIJING &nbsp;&nbsp;BRUSSELS &nbsp;&nbsp;CHARLOTTE &nbsp;&nbsp;DALLAS &nbsp;&nbsp;HOUSTON &nbsp;&nbsp;LONDON &nbsp;&nbsp;LOS &nbsp;&nbsp;ANGELES </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7.5pt; font-family:Times New Roman" ALIGN="center">McLEAN &nbsp;&nbsp;MIAMI &nbsp;&nbsp;NEW &nbsp;&nbsp;YORK &nbsp;&nbsp;NORFOLK &nbsp;&nbsp;RALEIGH &nbsp;&nbsp;RICHMOND &nbsp;&nbsp;SAN
+&nbsp;&nbsp;FRANCISCO &nbsp;&nbsp;TOKYO &nbsp;&nbsp;WASHINGTON </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7.5pt; font-family:Times New Roman" ALIGN="center">www.hunton.com </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g189560page32.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Board of Directors </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Philip
+Morris International Inc. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">May 9, 2016 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"> Page
+ 2
+ </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(iii)</TD>
+<TD ALIGN="left" VALIGN="top">the resolutions of the Board of Directors of the Company authorizing the registration and the issuance and sale of the Notes; </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(iv)</TD>
+<TD ALIGN="left" VALIGN="top">the Registration Statement, the Prospectus and the documents incorporated therein by reference; </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(v)</TD>
+<TD ALIGN="left" VALIGN="top">a copy of the Underwriting Agreement; </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(vi)</TD>
+<TD ALIGN="left" VALIGN="top">an executed copy of the Terms Agreement; </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(vii)</TD>
+<TD ALIGN="left" VALIGN="top">an executed copy of the Indenture; and </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(viii)</TD>
+<TD ALIGN="left" VALIGN="top">executed copies of the Notes. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">For purposes of the opinions expressed below, we have assumed:
+(a)&nbsp;the authenticity of all documents submitted to us as originals; (b)&nbsp;the conformity to the originals of all documents submitted to us as certified photostatic or electronic copies and the authenticity of the originals of such documents;
+(c)&nbsp;the legal capacity of natural persons; (d)&nbsp;the genuineness of all signatures; and (e)&nbsp;the due authorization, execution and delivery of all documents by all parties and the validity, binding effect and enforceability thereof (other
+than the due authorization, execution and delivery of the documents identified in (vi)&nbsp;through (viii)&nbsp;above by the Company and the validity, binding effect and enforceability thereof upon the Company). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">We do not purport to express an opinion on any laws other than the laws of the Commonwealth of Virginia and the State of New York. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">Based upon the foregoing and subject to the qualifications set forth below, we are of the opinion that: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">1. The Company has been duly incorporated and is validly existing and in good standing under the laws of the Commonwealth of Virginia, with
+corporate power and authority to issue the Notes in accordance with and subject to their terms and the terms of the Indenture. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">2. The
+Notes are valid, binding and enforceable obligations of the Company, entitled to the benefits of the Indenture. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">The opinions set forth
+above are subject to the qualification that the validity, binding effect and enforceability of the Company&#146;s obligations under the Indenture and the Notes may be subject to (i)&nbsp;the effects of bankruptcy, insolvency, reorganization,
+arrangement, moratorium, fraudulent conveyance, and other laws relating to or affecting creditors&#146; rights generally, (ii)&nbsp;general principles of equity (whether considered in a proceeding at law or in equity) and (iii)&nbsp;concepts of
+materiality, unconscionability, reasonableness, impracticability or impossibility of performance, good faith and fair dealing. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g189560page32.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Board of Directors </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Philip
+Morris International Inc. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">May 9, 2016 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"> Page
+ 3
+ </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">We hereby consent to (i)&nbsp;the filing of this opinion with the Commission as an exhibit to
+the Company&#146;s Current Report on Form 8-K filed on the date hereof, (ii)&nbsp;the incorporation by reference of this opinion into the Registration Statement and (iii)&nbsp;the reference to our firm under the caption &#147;Legal Matters&#148; in
+the Registration Statement and the Prospectus. By giving such consent, we do not admit that we are within the category of persons whose consent is required under Section&nbsp;7 of the Act or the rules and regulations of the Commission promulgated
+thereunder. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">This opinion is limited to the matters stated in this letter, and no opinions may be implied or inferred beyond the matters
+expressly stated in this letter. The opinions expressed in this letter speak only as of its date. We do not undertake to advise you of any changes in the opinions expressed herein from matters that might hereafter arise or be brought to our
+attention. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:54%; text-indent:-2%; font-size:12pt; font-family:Times New Roman">Very truly yours, </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:54%; text-indent:-2%; font-size:12pt; font-family:Times New Roman">/s/ Hunton&nbsp;&amp; Williams LLP </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>g189560page31.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g189560page31.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( $4 C@,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ />IC*L$AA17E"G8KL54GL"0#@>^#]*0CSN'XCZ_-XVD\)KX
+M1A&H1KO9VU(^4$P#NSY6<<CMWH ['7=0U33=(>\T_3(;Z:)"\D#71B. ,G:=
+MAR?KB@#G? ?CG5/'$#7R>'XK+34D,33/>EW+!<_*GEC/) Y([]<8H [B@ H
+M* "@ H * "@ H * "@ H * "@ H * /,+'_DXO4O^P0/YQTP/2[@9MI0?[A_
+ME2 \)\(7^MZ+\#Y]9T6_2"2SN9&>*2%760;E!Y/((S3 ]6\$3:O?>&++4M7U
+M!;F>^MXYU5(5C6(,,X&.O!'7TI <M<7'C>3QU?>'[?Q'%%;06 O4N#8QECD[
+M0A'U!Y'I3 G^%'Q$D\9Z=<6FIM&-7M3N8(-HDC)X8#V/!_#UI :'BF\\0V?B
+M[0;+3M72"TU29XW1K96,01-Q*D]<X/7UI@8\MUX^_P"$9U7Q VO6=O!:K<30
+MVQL0[-'&6VY;(P2%]#UH K6=_P#$+4/ "^)[7Q!9,[6[7 M6L ,A<Y&[/7 ]
+M* -F;Q#K'BKQ)<Z!X<NDL;;3U7[?J1C$C!S_ ,LXU/&>N2<XP?3D&1:Q<^)?
+M $*:Q/JTNO:&C*MW#-"BSP@G&]&4#=R1D'_ZX!&5XL^(=_X1\4:'<G48[_P[
+MJBF8J(0&2,G@JPZ@!@1ZX]Z /3+GS=0TS=IM^L#RJ&BN%02#!Y!P>"#2 Y7X
+M;:CX@US0$U?7-021I6DC%M' J",J^W)8=3E3[<TP-<?VAJT5U<VU\UOY<C)!
+M&H&#M[MGU_2@#>4$( QR<<GUI "LK#*D$9(X]J %H \;U+1/[>^/>H6G]J:C
+MIVW3%?SM/G\F0XV#!.#QST]A3 Z>;X:;89#_ ,)MXM.%)P=4X_\ 0:0'!^&O
+M^3;=;_WY/_0EI@>N>"?^1"\._P#8-M__ $4M(#&'_)6]4_[ <?\ Z->F!YNN
+MDWFA^!O"GQ T2/-YI\ 2]C7/[Z$L1SCTS@^Q!_AH [W4-8L]?\0?#[5;"026
+MUS/<.I[C]PV0?<'(/N* .D\;?\B%XB_[!MQ_Z*:D!F?#-C'\+]$8=5MB?_'C
+M3 PO@8ID\#W5]([/<WE_++*[=2V%'_U_Q-(#NO$=I%?>&-5M)L>5-:R(V>V5
+M/- 'C/@BSA\467A;3-44S02Z5?6YW==HF4*1].,'VH Z;X9:Q=Z#JUY\/=<E
+M)N[$EK&5N/.BZX&?0<@>F1_#3 U? -^FF_#B.X92[?:KE40=68SO@4 :NE2W
+M&DZS-87FV-;W][$5^ZKGJ!G\OP'K0 7NG7UKJ5JD.KW8CNB49G.[:V,CC@8/
+MZ4 ;^FV9L+".V:4RLN2SMU8DDD_K0!:I >5V5S"/VC]1C\Q=YTL1XS_%A&Q]
+M<<TP/3;V5(;&XED.U$C9F/H *0'B_@.QDUGX :WI]I^\N2TP$:]2P"L%^IX_
+M.F!Z%\,M6MM7^'NC-;RAVMK=+:5<\HR +@_D#]"*0%+2Y5U/XC>)M3@(:SLK
+M*/3S*/NM("SN ?\ 9W &F!/\,D@N_A9HT3A)87MVC=3R"-S @_J* /.=)T/4
+M/!_QDT;PZ7=]%-Q-=V);)VAHG! /J, 'Z ]Z /6_&[!? /B(DX']G7 _\AM2
+M S/A7)'-\,=#*,&40LI^H=@1^8I@87PXV^#_ !!K/@B];RB;@W>G;VXFA88P
+MI/4C:,CUW>AH W?B5K\>C^$KJTA)?4]20VEG G+N[_+D#V!S^7K0!SWAS1%\
+M*^*O!NC2,HGBTFY#X.09&=7;'KR6_ 4@+GQ7\,W5W86WBG1<IK6BGS59!S)&
+M#DK[XZX],CO3 S?!DTTOPDTC4-@8I>RSR =.97_J?UH [[5+2'Q!I"36D@,B
+M_/"X.,'T]J-@,W3-935+FT^W2I UDI9][!?,?H"/H,D^] '51R)+&LB,&1@&
+M4CN#0!B^)/$ND^'K)WUAKF*T9</-'!(RKNXY=!\I_$=1[4@.9\.Z9\/_ !-=
+MMJ6CZ7-+*"6^V&*>/+=#B1L9/T.:8'6ZA8:1K8DTB\"W'DHK26_FL/E;(&X
+M\@[3U]* .5EN_ OP]U6.W6SN-.N9CB-88)V28XQ@8!5SS[XR* ,4Q?#G6/%-
+MQ;P6VJVFLW'-S;6\-S S=\NH  ZYSQUSWI#-1M<\!K"G@I+>^@VG:+""UNHI
+M#U)SM 8@C)))P>IIB.J\/>%M&\,6[+HUM-;0N,F)KB5U'?A78@'Z4@,*\\9^
+M$+OQ+96=U'>/K5E(SV\7V"<2H2I!( 7D%2?;OV!I@=%K>@:9XEL%M]4@FEM\
+M9\M9Y(MV>S!&&?H:0'(>'M5\"^&-8DT318-2M[YN&LS#=OCOD(V0/]X?G3 [
+M'6_#FD>([9(-6L8[E4.Y&.5=#ZJPP1^!I 8?AO1/"%KXCU(:7#YVL6!2.XEG
+ME>:2/<N0 SDX&,]/<4P*_B;PUX/T^Y;Q%K%IJ#3H6<W4-Q=N81R21L;Y%Y/3
+M %(#H?#GB'2/$VDB\T:Z^TVJ,8B2&!! '!#<]".OK0 )::+X3\-W")!'::3:
+MI)-(F"RJI)9N.>.3P/H!3 P] NO"7B*&6ZTJ.X:T +/*\<T4)QU&YL X]* *
+MM[XG\%PHFJS6MR;&-M@O([&4VYQP.0N".V>0: .Y@FCN+>.:%@T4BAD8="",
+M@T@*FN:8FLZ#J&F2?=NH'B^F00#0!P/P,OFF\!R:?*NR;3[N2%E/4 _-S^+,
+M/PI@97A;Q9]M^/NOVOG V]Q$;:)3Q\T..GY2'\: .F\1(-6^*_A73@P*Z=!/
+MJ$J8SZ(A]OFI 9ECQ^T9J7_8('\XZ8"X'_#1?3_F$?UI >G4 >8X'_#1?3_F
+M$?UH ].H \Q_YN+_ .X1_6@#T/5=1@TC2;O4;DX@M8FE?Z*,T >+>$3J'A3Q
+MWHFJZK,VSQA [SAN DS/N0?DR#_@1I@>Q^( #X:U4$9'V27C_@!I >1?!F:;
+MP[KS^'[F0F#5=/AU*U)XR2HW ?J/^ 4 ='\9M0F;PRN@V;8N+Y)9Y,9XA@0R
+M/],E5'XT <_<6UU%^S'"FG^9GR1)+L/.PS%GZ=N3GVS3 ]!\)Z]H/C/PE'%9
+M^2\!MQ#<69QF,;<%2OIZ=B*0&]I.GKI.C6.FI*TJ6D"0*[_>8*H )]^* +E
+M'C7AZ^B\$_%#QW:3 K:R6S:DN>A"C>0/^_C#_@-,#GX=/E\,VWPZ\5RX,UU=
+M.;R4\%A,VY3_ -\,U 'I?A,G5?B)XOU@E7BMWBTV CML&9!_WT10!E6/_)Q>
+MI?\ 8('\XZ %_P";BO\ N$?^S4@/3B0HR3@4 >8_\W%?]PC_ -FH ].)"C).
+M!0!YC_S<5_W"/_9J +OQ3GN;^STSPII\8FO-8G^:-G* PQ_.^6'0' 'YTP.>
+M^(]EXRU/PK]HN=%TZT727%Y'-;7;.\>P'. 5';G\*0'>0:W#XC^&TFKPD;;G
+M3Y&8#^%MA#+^!!'X4P/-]<ADT?P3\/O&ELI\S28H$GVX^:%T (_F/^!F@#3N
+M9D\3KX_\41N)+*TTN?3+%QG# 1EI6'U8C!]* .G^&L]O'\-O#D,\D:M<0E(T
+M<C]X?F) '?@$X] : .9\:?">UM(+CQ#X/DETO5+93-Y,#E4DQR0O]T\=!QVQ
+M2 [;P!KUQXF\#:7JUV +B9&63'0LKLA/X[<_C0!TE 'AWQKT.[D\7:#=V$C1
+M/JB'379>G+8 /KD.?^^:8'8?%C08[GX5W=M;QK_Q+ECFB!_A"<''_ "U("W\
+M++&>R^'EE<3?O+R_+WLK$XWM(202?==M,#*L_#GC&'XF7'BV6STHQ7%N+8VR
+MWKY1/EY#>7R<KGH.N/>@"*Y\->.7^(R^+;:VT>/;!]G^S/=R-N3'=O+'.>>E
+M(#6UBW\?ZQ8&P-IHMG#*ZB:1+J21]F06"@H!DCBF!D7'AKQT_P 15\6VUMHT
+M1$ MS;/=R."G?YO+'.>>E(#7U>W\?ZQ8_8#::-9PRNHFD2ZD=_+R-P4% ,D<
+M?C3 SE\.^,O^%DGQ:UAI.S[-]F^RB^?(7UW^5US[?XT 78M'\7'XCMXCN;/3
+M)+,6WV2&$7CAH4+ EQ^[P6//&!V&>,D ZW6UOI-+EAT^RMKN64&-H[F<Q)M(
+M()R%;/;C'XT@/.O"OA7QUX9\'7WATP:3>1W D$,K7CKY&]<'(\OYAGG&1U/X
+M,#?TSPQJUW\/)?">OV]E&J68MHI[>9I-Q PK%2@VD$*>IS[4 0MX1U;1_AFG
+MA/1(;.:6:UD@N)YYVC"LX^9@ IW9W-U(Q@4 8NG^!O%UKX%T_0 VGVU[I-Q]
+MKLKR.Y<YDWL=K+L'!#N,Y/TH Z:X;QGK.C/ILFFV>E3SH8IKP77FA%/!:- ,
+MDXZ9(QGOB@#H="T6S\.Z'::38*5MK5-BYZGN2?<DDGZT@-"@"G?:58ZE+9RW
+MEN)7LYA/ 22-C@$ \=>">M $UY:07]E/9W48EM[B-HY$/1E(P1^1H 6VMH;.
+LTAM;>,1P0H(XT'15 P!^5 $M !0 4 % !0 4 % !0 4 % !0 4 % !0!_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>g189560page32.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g189560page32.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( #, : ,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /6/'.N:GX:\,W.LZ=#;SBU :2&8$%@6 R"#QC.>E(1H6DNK
+MW'A^*=FLUU&6,2 !&,0)&=OWLGZ_I3 QOAYXFU7Q?X>&LW]O;6T,KLD,<08D
+MA3@L23ZY&,=NM(#KJ "@ H * (YIX;:)I9Y4BC7J[L% _$T $$\-S$LL$J2Q
+MMT=&# _B* )* "@"-)X9)&C25&=/O*&!(^HH DH Y'XH?\DTUW_KA_[,* )8
+M/$NJBWB \&:M@*.DEMZ?]=:8'D.FZ787?PY^'DEQ9PRO+KJV[LR EHVF?*$]
+MU/I2 ]3^)6D:?>>#%CFLX66&YM4B^0?NPT\:$+Z94D<=J .1LKMO GQ"U>ZB
+MBC@\+7-^EE/%$NU+64PQLLF!P 2Q!Z?RH&;NJ>$=(UWX@ZI:36D*)/IUI/*R
+MQC+XN79AG_:$84F@1FQ^$O#I^-4NFG1+'["-"\X0>0NP/YP&[&.N.,T 6O"?
+MA^TU+Q'J=G=QI<Z/X=E%I86LBYC5SEV<J<Y8;@H)[#-,";Q+IUCX;\1Z8;>U
+M@CT?79&LK^S* 0O*5S&X7H&R,$]^* ,SX4ZM=:7:6/A36V$D=]9K>:9*WW9(
+MV7+Q<]U.>/3/;% &]X/L;#2M!\07%G;P6DQU*]C61$"GB5E1>.PP !0!NV-S
+M:V^D6U];:>TDBQ>6_E*-RX^]G\1]: +^F:FVI&1UM9H80JE&E7&_.<X]1T_.
+M@#G?BO/';_#'6VD; :)4'N2Z@4@.HL;F.72K>Z#*(GA63<#D8QGK0!X=H^%^
+M#W@_4]V;?2-=2XNR.?+03-DGZ;E_.@#U#QQ<176A65A;RI)<:A?6HMU5L[PL
+MR2,P]@J$DT 5;#3+'7Y_&^E7BK+;W%^J.H/(_P!'AY'H01Q[BF!A?#A=7M?&
+MFK:1K1WW.E6$-HD__/:(22,C_P#?+@?AZYH TXF7_A?TP##(\/XQGOYX-("7
+M0)AH'Q"\0:1>L(DU65;^Q=C@3?*%D4=MP(''7!S3 A\6-'XB\::)HML1*FDR
+MG4KYU.1"54B-2>S$G./09H&4QX;D\1_"+PY+ILOE:QI]G#<6,ZGE9%0?+GT.
+M,?7'I0(9X*U*:Y\*V.K7T)A675[F:XCP<1NTC'GZ$F@#J;RZ'A[4'NHP)+"]
+M!8JI'RR8ZCV/^>E &QI A33(((9TF\E C,C9&<>M '$^*=7G;QAI'A[4_"FD
+M:BE^SFTN+J7<J[1EL@QG!QC@>HYH Z&X/A_3[C3/"TVF6:)J2RM':K ODG8
+M6^7&._I0!@7DKZ)XGD\.Z%X/T4)=V;W#R*PA5HU.,2*L9ZDX'7K0!S^F>(+3
+M0? /_">Z7X+TJT25BA2*<B4+YGE]?+X^8=/3% 'HVAZ#9Z;$;R/1-/T_4IE/
+MF_91P2><%]H)Y]J ,CPYK^H:QXPUFTFT.RMGTTI;SW:7!=I <LH7Y!D#K@D8
+MS0!4\91V'A:>TURS\*Z7=W4UW'%Y[D12B5S@-N"'\\T =9?:;9:MI0AUZQM)
+MXP-\B2#S$4CN"P'YX%(#G? MWX:\5>#IAIVCVEOI[3O#+:",;3M/!88Y)7:>
+M?7':F!4T3Q%;:+X^;P1_8=EIB20FX@>TD^60XSC;M&#@-_WS2 TO&_B'3_ O
+MA2XO_L$,WFS!5MLA!,[G+$\'G&YCQSBF!!%J"1:C:Z'#H=@=9NK4W4\0F/E0
+MP[@N2^S)))P %['I0!L^&[ZXGBO+*[TN+3KBQF\HQPR>9&ZE0P=3M7@Y].H-
+M '-_%5?L&FZ-XD7Y6T;48IG8#)\ICM<?C\M(#F/&U_=?\+.L=>@D_P")?H-Q
+M:6LWI^_W%V!_W60?B*8';:.#?^,/%>J$92W$6G1'_<0N_P#X])^E 'F\G_)J
+M\/\ O_\ MV:0'O% '#^"_P#D=/''_7]%_P"BA0 ?%+_D :7_ -A:U_\ 0Z +
+M/Q'U/[%X7^PH9A-JDJV:^0C/($;_ %C*J@DX0,>E,#G?#&K66G_%.\T^R@N;
+M?3=9M$DA6XMI( )XAM955U&?DY)'M0!3\<6TL7B?6O$%HC-=:$NG7@"XRT8:
+M82+]-I)/TI 4?BQ=1^)M&U2ZMW\S3]'L[=T8=&GGEC(/X1?^C*8'8^)O"NLS
+M:M8^*/"][#!K%O;"W>&X&8KB+.[:?3D_RY&* -#P3XOF\31W]IJ&G-IVKZ;(
+ML=W;$[@"0=K ^AP?_K]:0&CXMTG^W/".K:8!E[BV=4R,_/C*_J!0!YOHF@7.
+ML? ;5)+Q7FO]3C>[R3\S-'@1_F(E_.F!U7@.SU&W^&=I,@BN-4U!'O':=S&K
+MO*Q?+$*<<,.@[4@,!_ 'B=OA)'X* TKS5D)-S]JDV[?-\SIY77)QC\?:@#K+
+MC_A-[JS%M]DT:W9]JR31W\Q8#(W%1Y0P<9QSQ3 R]'T3QEH_B37]32WT::'5
+M94E$+7LJF(J,?>\DYR,?E2 B\0^'O&?B"R\N1=(CD%_%=1K]LE*1I&!A?]7R
+M2VXD\=J8&O+I?B"[\<:;J]S;:;_9]G;O&D:W<AD1WV[I!^[ / V@<=3R.E $
+M/CKP]KFNSZ-/H?V&*YTVZ6Y6>YF=3P"&3"H>#QDY[8Q0!+9Z+K4OB76+K5+/
+M3O[.U2VBMI(XKIW=0@<'@Q@'/F'N,8[T <W<_#34[7X7S>$-+ELY9KN;S+BZ
+MN)73HZLN %;/RHJ]NE(#I+>W\6V&KF\%MI\]I<0(L]JMTP,4JC&]&*#((P""
+M!T'XL"YX=T";3]5UG6KYH_[0U:2-I8X22D:QIM103C)QG)P,YZ4 =#2 :$18
+HPBJ @&-H'&* %50BA5 "@8 ':@!: "@ H * "@ H * "@ H * /_V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
